@@ -1,0 +1,17 @@
+
+
+Cyberspace maybe ghost in the shell???
+Techno phsycosis paranoia??
+
+
+Anduril eagle eye gamifying military - ambit irl
+Wifi routers to see people through walls
+Emi sensing
+Motion enhancement
+Uncanny valley meter
+communism detector
+
+
+while read url; do
+  wget "$url”
+done < urls.txt
