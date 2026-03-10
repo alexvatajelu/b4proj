@@ -19,7 +19,7 @@ function setup() {
     fetchButton = createButton('Fetch');
     fetchButton.position(width - 100, 10);
     fetchButton.size(80, 30);
-    fetchButton.mousePressed(doFetch);
+    fetchButton.mousePressed(getData);
 
     outputArea = createElement('textarea', '');
     outputArea.position(10, 50);
@@ -51,6 +51,10 @@ function makeHttpObject() {
 // removed automatic request – it's now triggered by button
 
 function doFetch() {
+
+    // not in use
+
+
     const url = urlInput.value().trim();
     if (!url) {
         alert('Please enter a URL');
@@ -70,4 +74,21 @@ function doFetch() {
         }
     };
     request.send(null);
+}
+
+async function getData() {
+  const url = urlInput.value().trim();
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Response status: ${response.status}`);
+    }
+
+    const result = await response.text();
+    outputArea.elt.value = result;
+    console.log(result);
+  } catch (error) {
+    console.error(error.message);
+    outputArea.elt.value = `Error fetching data: ${error.message}`;
+  }
 }
