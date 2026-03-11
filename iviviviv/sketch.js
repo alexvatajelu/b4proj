@@ -19,13 +19,34 @@ function gradient(data, x, y, w, h) {
 }
 
 function points(data, x, y, w, h) {
+    if (!table){
+        console.log("no data, drawing points failled");
+        return;
+    }
     console.log("drawing points");
+
     noStroke();
     fill(255);
     rect(x, y, w, h);
 
-    for (let i = 0; i < data.length; i++) {
-        point(x, y);
+    console.log(`data :\n${data}`);
+    console.log(`rows: ${data.rows.length}`);
+
+    //console.log(data.rows[0].arr[0]);
+
+    let pointSize = 8;
+    for (let i = 0; i < data.rows.length; i++) {        
+        let px = data.rows[i].arr[0];
+        let py = data.rows[i].arr[1];
+        let hex = data.rows[i].arr[2];
+
+        px = px * w + x;
+        py = py * h + y;
+
+        console.log(`px: ${px}, py: ${py}, colour: ${hex}`);
+
+        fill(hex);
+        ellipse(px - (pointSize/2), py - (pointSize/2), pointSize, pointSize);
     }
 
     console.log("complete");
@@ -40,12 +61,12 @@ async function loadData(fileName) {
 function keyPressed(event) {
     if (event.key === 'g') {
         console.log("g pressed");
-        gradient("data", -350, -250, 400, 400);
+        gradient(table, -350, -250, 400, 400);
     } else if (event.key === 'f') {
         console.log("f pressed");
         loadData(fileName);
     } else if (event.key === 'r') {
         console.log("r pressed");
-        points("data", -350, -250, 400, 400);
+        points(table, -350, -250, 400, 400);
     }
 }
