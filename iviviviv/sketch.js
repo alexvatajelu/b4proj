@@ -62,10 +62,12 @@ function points(data, x, y, w, h) {
     console.log("complete");
 }
 
+
 async function loadData(fileName) {
     table = await loadTable('sampledata.csv', ',', 'header');
     console.log(table);
 }
+
 
 
 function keyPressed(event) {
