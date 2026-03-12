@@ -83,8 +83,9 @@ void main() {
     col.rgb /= col.a + 0.01;
     sumHsv.xyz /= sumHsv.a + 0.01;
     sumHsv.x = rgbHue;
+    //sumHsv.z = col.a * 0.01;
 
-    col = vec4(hsv2rgb(sumHsv.rgb),1.0);
+    col = vec4(hsv2rgb(sumHsv.rgb), 1.0);
 
     //col = vec4( texture2D(u_pointPosTex, (vec2(float(xy.x), xy.y) + 0.5) / u_pointTexSize));
 

@@ -60,9 +60,9 @@ loop = 0;
 function draw(){
   clear();
 
-  let cases = 1;
+  let cases = 2;
   if(screen % cases == 0){
-    drawGradient(-500 - sin(frameCount*0.05)*5, -300, sin(frameCount*0.05) * 10 + 1000, 600);
+    drawGradient(-400, -400, 800, 800);
   } else if (screen % cases == 1){
     test();
   }
@@ -161,8 +161,9 @@ function test(){
 }
 
 
-function keyPressed(event){
+function keyPressed(){
   if (key == "t"){
     screen++;
+    console.log(screen);
   }
 }
