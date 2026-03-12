@@ -1,15 +1,13 @@
 precision highp float;
 uniform sampler2D u_pointPosTex;
-glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_NEAREST);
 
 uniform sampler2D u_pointColTex;
-uniform float u_pointTexSize;
+uniform vec2 u_pointTexSize;
 varying vec2 vTexCoord;
-
 
 void main() {
     vec2 uv = vTexCoord;
-    vec2 xy = uv * 10.0;
+    vec2 xy = uv ;
     vec4 col = vec4(uv.x, uv.y, 0.0, 1.0);
     col = vec4(0, 0, 0, 0);
 
@@ -29,8 +27,8 @@ void main() {
             float dist = distance(uv, vec2(px, py));
 
             if (dist < 0.02) {
-                //col.rgb = pColor;
-                //col.a = 1.0;
+                col.rgb = pColor;
+                col.a = 1.0;
             }
 
             //float influence = 1.0 / (dist + 0.01);
@@ -38,8 +36,6 @@ void main() {
             //col.a += influence;
         }
     }
-
-    col = vec4( texture2D(u_pointPosTex, (vec2(float(xy.x), xy.y) + 0.5) / u_pointTexSize));
 
     //col.rgb /= col.a + 0.01;
     gl_FragColor = col;

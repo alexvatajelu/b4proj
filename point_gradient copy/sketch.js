@@ -123,7 +123,8 @@ function drawGradient(table, x = -100, y = -100, w = 100, h = 100) {
   shader(gradient);
   gradient.setUniform('u_pointPosTex', pointPosTex);
   gradient.setUniform('u_pointColTex', pointColTex);
-  gradient.setUniform('u_pointTexSize', [texSize] );
+  gradient.setUniform('u_pointTexSize', [pointPosTex.width, pointPosTex.height]);
+
   //gradient.setUniform('u_bounds', [x, y, width, height]);
 
 
