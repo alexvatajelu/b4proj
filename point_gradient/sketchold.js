@@ -1,10 +1,20 @@
-let width, height;
-let data, table;
+let width;
+let height;
+
+let data;
+let table;
 let fileName = 'sampledata.csv';
+
+let gradient;
+let pointPosTex;
+let pointColTex;
+
+const texSize = 32;
 
 async function preload() {
   data = await loadTable(fileName, ',', 'header');
-  //console.log('file loaded:', data);
+  console.log('file loaded:', data);
+
   gradient = loadShader('shaders/gradient.vert', 'shaders/gradient.frag');
 }
 
@@ -15,14 +25,8 @@ function setup() {
   createCanvas(width, height, WEBGL);
 
   tableize(data);
-  console.log('data length', table.length);
-  console.log('data', table);
-
   textureizePoints(table);
-
-  test();
-
-  drawGradient();
+  console.log('data length', data.rows.length);  
 }
 
 function windowResized() {
@@ -31,6 +35,16 @@ function windowResized() {
   resizeCanvas(width, height);
   i = 0;
 }
+
+let i = 0;
+function draw() {
+  if (i % 6000 === 0) {
+    //test();
+    drawGradient(table,-200, -200, 400, 400);
+  }
+  i++;
+}
+
 
 
 function tableize(data) {
@@ -44,6 +58,7 @@ function tableize(data) {
       ]
     );
   }
+  console.log('table initialized', table);
 }
 
 function hexToRgb(hex) {
@@ -60,10 +75,7 @@ function hexToRgb(hex) {
 
 
 
-const texSize = 32;
-
-function textureizePoints(table){
-
+function textureizePoints(table) {
   pointPosTex = createGraphics(texSize, 1);
   pointPosTex.pixelDensity(1);
   pointPosTex.loadPixels();
@@ -72,79 +84,56 @@ function textureizePoints(table){
   pointColTex.pixelDensity(1);
   pointColTex.loadPixels();
 
-  for (let i = 0; i < texSize; i++){
-    if (i < (table.length)){
-      let ix = i * 4;
+  for (let i = 0; i < texSize; i++) {
 
-      let x = float(table[i][0]);
-      let y = float(table[i][1]);
+    let idx = i * 4;
+
+    if (i < table.length) {
+      let x = map(table[i][0], 0, 1, 0, 255);
+      let y = map(table[i][1], 0, 1, 0, 255);
       let col = hexToRgb(table[i][2]);
-      console.log('row', i, 'x', x, 'y', y, 'col', col);
+      //let col = [0,0,0];//hexToRgb(table[i][2]);
 
-      pointPosTex.pixels[ix + 0] = 255;
-      pointPosTex.pixels[ix + 1] = x * 255;
-      pointPosTex.pixels[ix + 2] = y * 255;
-      pointPosTex.pixels[ix + 3] = 255;
-      
-      pointColTex.pixels[ix + 0] = col[0];
-      pointColTex.pixels[ix + 1] = col[1];
-      pointColTex.pixels[ix + 2] = col[2];
-      pointColTex.pixels[ix + 3] = 255;
-      
+      pointPosTex.pixels[idx + 0] = 255;
+      pointPosTex.pixels[idx + 1] = x;
+      pointPosTex.pixels[idx + 2] = y;
+      pointPosTex.pixels[idx + 3] = 255;
+
+      pointColTex.pixels[idx + 0] = col[0];
+      pointColTex.pixels[idx + 1] = col[1];
+      pointColTex.pixels[idx + 2] = col[2];
+      pointColTex.pixels[idx + 3] = 255;
+
+      console.log(`point ${i}: x=${x}, y=${y}, color=(${col[0]}, ${col[1]}, ${col[2]})`);
     } else {
-      for (let j = 0; j < 4; j++){
-        pointPosTex.pixels[i*4 + j] = 0;
-        pointColTex.pixels[i*4 + j] = 100;
-
-        console.log('row', i, '---blank---')
+      for (let j = 0; j < 4; j++) {
+        pointPosTex.pixels[idx + j] = 0;
+        pointColTex.pixels[idx + j] = 0;
       }
     }
   }
-
-  /*
-  let v = 7;
-
-  pointColTex.pixels[v * 4 + 0] = 255;
-  pointColTex.pixels[v * 4 + 1] = 0;
-  pointColTex.pixels[v * 4 + 2] = 0;
-  pointColTex.pixels[v * 4 + 3] = 255;
-  */
-
   pointPosTex.updatePixels();
   pointColTex.updatePixels();
-
 }
 
-function drawGradient(x = -200, y = -200, w = 400, h = 400){
+function drawGradient(table, x = -100, y = -100, w = 100, h = 100) {
   console.log('drawing gradient at:', x, y, 'with dimensions:', w, h);
-
+  clear();
+  
   shader(gradient);
   gradient.setUniform('u_pointPosTex', pointPosTex);
   gradient.setUniform('u_pointColTex', pointColTex);
   gradient.setUniform('u_pointTexSize', [texSize] );
-
-  pointPosTex.textureFiltering = NEAREST;
-  pointColTex.textureFiltering = NEAREST;
+  //gradient.setUniform('u_bounds', [x, y, width, height]);
 
 
-  /*
-  gradient.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-  gradient.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
-  */
-
+  //quad(-1, -1, 1, -1, 1, 1, -1, 1);
+  //quad(-0.5, -1, 1, -1, 0.5, 1, -1, 1);
   quad(2 * x / width, 2 * y / height, 2 * (w + x) / width, 2 * y / height, 2 * (w + x) / width, 2 * (h + y) / height, 2 * x / width, 2 * (h + y) / height);
+  //rect(0,0,10,10);
 }
 
 function test(){
-
-  textureMode(IMAGE);
-  texture(pointColTex);
-
-  rect(-200, 0, 400, 200);
-
-  textureMode(IMAGE);
-  texture(pointPosTex); 
-
-  rect(-200, -200, 400, 200);
-  
+  texture(pointPosTex);
+  rect(-200, -200, 400, 400);
 }
