@@ -4,6 +4,9 @@ let fileName = 'sampledata.csv';
 
 let screen = 0;
 
+let s1, s1v;
+let s2, s2v;
+
 async function preload() {
   data = await loadTable(fileName, ',', 'header');
   //console.log('file loaded:', data);
@@ -21,6 +24,12 @@ function setup() {
   console.log('data', table);
 
   textureizePoints(table);
+
+  s1 = createSlider(0, 1, 0.5, 0.01);
+  s1.position(10, 10);
+  
+  s2 = createSlider(0, 1, 0.5, 0.01);
+  s2.position(10, 40);
 }
 
 function windowResized() {
@@ -58,11 +67,14 @@ function hexToRgb(hex) {
 
 loop = 0;
 function draw(){
+  let s1v = s1.value();
+  let s2v = s2.value();
+
   clear();
 
   let cases = 2;
   if(screen % cases == 0){
-    drawGradient(-400, -400, 800, 800);
+    drawGradient(-400, -400, 800, 800, s1v, s2v);
   } else if (screen % cases == 1){
     test();
   }
@@ -126,13 +138,14 @@ function textureizePoints(table){
 
 }
 
-function drawGradient(x = -200, y = -200, w = 400, h = 400){
+function drawGradient(x = -200, y = -200, w = 400, h = 400, val1 = 0.5, val2 = 0.5){
   console.log('drawing gradient at:', x, y, 'with dimensions:', w, h);
 
   shader(gradient);
   gradient.setUniform('u_pointPosTex', pointPosTex);
   gradient.setUniform('u_pointColTex', pointColTex);
   gradient.setUniform('u_pointTexSize', [texSize] );
+  gradient.setUniform('u_extras', [val1, val2] );
 
   pointPosTex.textureFiltering = NEAREST;
   pointColTex.textureFiltering = NEAREST;
