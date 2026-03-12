@@ -2,6 +2,8 @@ let width, height;
 let data, table;
 let fileName = 'sampledata.csv';
 
+let screen = 0;
+
 async function preload() {
   data = await loadTable(fileName, ',', 'header');
   //console.log('file loaded:', data);
@@ -19,10 +21,6 @@ function setup() {
   console.log('data', table);
 
   textureizePoints(table);
-
-  test();
-
-  drawGradient();
 }
 
 function windowResized() {
@@ -56,6 +54,19 @@ function hexToRgb(hex) {
     var b = bigint & 255;
 
     return [r, g, b];
+}
+
+loop = 0;
+function draw(){
+  clear();
+
+  let cases = 1;
+  if(screen % cases == 0){
+    drawGradient(-500 - sin(frameCount*0.05)*5, -300, sin(frameCount*0.05) * 10 + 1000, 600);
+  } else if (screen % cases == 1){
+    test();
+  }
+  loop++;
 }
 
 
@@ -147,4 +158,11 @@ function test(){
 
   rect(-200, -200, 400, 200);
   
+}
+
+
+function keyPressed(event){
+  if (key == "t"){
+    screen++;
+  }
 }
