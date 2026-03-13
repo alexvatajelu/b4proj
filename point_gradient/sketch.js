@@ -84,6 +84,7 @@ function draw(){
 
   let cases = 2;
   if(screen % cases == 0){
+    //test();
     drawGradient(-400, -400, 800, 800, s1v * 1, s2v * 1, s3v * 1, s4v * 1);
   } else if (screen % cases == 1){
     test();
