@@ -25,7 +25,10 @@ values 1 - 4 are for extra control, not necessary but may be adjusted as desired
 let width, height;
 let data, table;
 //let fileName = 'sampledata.csv';  // columns [0], [1], [2]
-let fileName = 'data1.csv';         // columns [8] split by " " / 100, [13], [6]
+let fileName = 'data1.csv';         // columns [8] split by " " / 100, ([13] * 0.5), [6]
+
+let fileName1 = 'data2.csv';        // columns [8] split by " " / 100, ([13] * 0.5), [6]
+let data1;                          // alt data  
 
 // for sliders - not necessary
 let s1, s1v;
@@ -35,6 +38,9 @@ let s4, s4v;
 
 async function preload() {                                 // here data csv is preloaded before running
   data = await loadTable(fileName, ',', 'header');
+
+  data1 = await loadTable(fileName1, ',', 'header');        // alt data for switching
+
   gradient = loadShader('shaders/gradient.vert', 'shaders/gradient.frag');
   effect = loadShader('shaders/effect.vert', 'shaders/effect.frag');
 }
@@ -77,7 +83,7 @@ function tableize(data) {                                       // turns csv int
     table.push(
       [
       split(data.rows[i].arr[8], " ")[1] / 100,
-      data.rows[i].arr[13],
+      (data.rows[i].arr[13] * 0.5),
       data.rows[i].arr[6]
       ]
     );
@@ -96,11 +102,27 @@ function draw(){
 
   clear();
 
-  drawGradient(-400, -400, 600, 600, s1v, s2v, s3v, s4v);         // drawing gradient after loadGradient()
+  drawGradient(-400, -300, 600, 600, s1v, s2v, s3v, s4v);         // drawing gradient after loadGradient()
                                                                   // IMPORTANT!!
                                                                   // loadGradient() must be run first, or if data is changed
                                                                   // IMPORTANT!!
   //gradientTest();                                               // function to display point data textures -- for testing / diagnosis
 
   loop++;
+}
+
+c = 0;
+function keyPressed(event){
+  if (key = "s" || key == "S"){
+    c++;
+    d = c % 2;
+    console.log("data switch to ", d);
+    if (d==0){
+      tableize(data);                                         // main data
+      loadGradient(table);
+    } else {
+      tableize(data1);                                        // alt data
+      loadGradient(table);
+    }
+  }
 }

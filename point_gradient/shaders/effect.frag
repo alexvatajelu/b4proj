@@ -33,8 +33,8 @@ void main() {
             float t = float(q) / float(QUALITY);
             vec4 pix = texture2D(u_tex, uv + dir * radius * t);
                 if (pix.a > 0.0){
-                    cur += pix;
-                    count += 1.0;
+                    cur += pix * vec4(pix.a);
+                    count += 1.0 * pix.a;
                 }
             }
         }

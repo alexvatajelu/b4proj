@@ -1,0 +1,8 @@
+item_name,image_file,category,average_colour_hex,average_colour_rgb,average_colour_hsl,most_common_colour_hex,most_common_colour_rgb,most_common_colour_hsl,price_per_unit,unit,reciprocal_affordability,category_price_average,price_factor_to_average
+Essential British Free Range Semi-Skimmed Milk 4 Pints,LN_053457_BP_11.jpg,milk,#cfdbc9,207 219 201,100 20 82,#ececdc,236 236 220,60 30 89,1.75,,,2.99,0.585
+Waitrose Large Broccoli Crown,LN_085263_BP_11.jpg,broccoli,#8c9281,140 146 129,81 7 54,#ececec,236 236 236,0 0 93,1.35,,,5.56,0.243
+Waitrose Blush Oranges,LN_088407_BP_11.jpg,orange,#d0775e,208 119 94,13 55 59,#f4ecd4,244 236 212,45 59 89,3.00,,,3.24,0.926
+Essential Cup Mushrooms,LN_396147_BP_11.jpg,mushrooms,#e0d0c2,224 208 194,28 33 82,#ececec,236 236 236,0 0 93,1.45,,,1.57,0.924
+Waitrose Slower Reared Chicken Breast Fillets,LN_486988_BP_11.jpg,chicken breast,#d0b284,208 178 132,36 45 67,#ecbc4c,236 188 76,42 81 61,5.25,,,5.59,0.939
+Waitrose British Native Breed Beef Mince 5% Fat,LN_746702_BP_11.jpg,beef mince,#d09596,208 149 150,359 39 70,#f4dcdc,244 220 220,0 52 91,7.50,,,8.01,0.936
+Clarence Court Burford Buff 10 Medium Eggs,LN_972361_BP_11.jpg,eggs,#d7903a,215 144 58,33 66 54,#ec7c04,236 124 4,31 97 47,4.00,,,2.81,1.423

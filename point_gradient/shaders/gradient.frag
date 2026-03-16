@@ -76,8 +76,8 @@ void main() {
             rgbHue = rgb2hsv(col.rgb).x;
         }
     }
-    col.rgb /= col.a + 0.01;
-    sumHsv.xyz /= sumHsv.a + 0.01;
+    col.rgb /= col.a + 0.0001;
+    sumHsv.xyz /= sumHsv.a + 0.0001;
     sumHsv.x = rgbHue;
 
     col = vec4(hsv2rgb(sumHsv.rgb), 1.0);
