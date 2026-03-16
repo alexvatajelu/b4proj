@@ -66,6 +66,7 @@ function setup() {
   s3.position(10, 70);
   s4 = createSlider(0, 1, 0.5, 0.01);
   s4.position(10, 100);
+
 }
 
 function windowResized() {                                     // resizing window -- not necessary
@@ -103,6 +104,7 @@ function draw(){
   clear();
 
   drawGradient(-400, -300, 600, 600, s1v, s2v, s3v, s4v);         // drawing gradient after loadGradient()
+  //drawGradient(-width / 2, -height / 2, width, height, s1v, s2v, s3v, s4v);         // drawing gradient after loadGradient()
                                                                   // IMPORTANT!!
                                                                   // loadGradient() must be run first, or if data is changed
                                                                   // IMPORTANT!!
