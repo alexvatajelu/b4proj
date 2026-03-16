@@ -79,7 +79,7 @@ function elementSetup() {
   }
 
   if (!folderPickerBtn) {
-    folderPickerBtn = createButton('Pick folder (can auto-create sample.csv)');
+    folderPickerBtn = createButton('Pick folder (can auto-create blank.csv)');
     folderPickerBtn.position(10, 80);
     folderPickerBtn.mousePressed(handleFolderViaFSAccess);
     folderPickerBtn.attribute('title', 'Uses the File System Access API when available (Chrome/Edge).');
@@ -184,9 +184,9 @@ function setStatus(msg) {
 }
 
 async function getBlankCsvText() {
-  // `sample.csv` sits next to `index.html` and `sketch.js`
-  const res = await fetch('sample.csv', { cache: 'no-store' });
-  if (!res.ok) throw new Error(`Failed to load sample.csv (${res.status})`);
+  // `blank.csv` sits next to `index.html` and `sketch.js`
+  const res = await fetch('blank.csv', { cache: 'no-store' });
+  if (!res.ok) throw new Error(`Failed to load blank.csv (${res.status})`);
   return await res.text();
 }
 
@@ -203,7 +203,7 @@ function downloadTextFile(filename, text) {
 }
 
 function splitCsvLineSimple(line) {
-  // Minimal CSV splitter (no quoted fields support). OK for our CSV schema.
+  // Minimal CSV splitter (no quoted fields support). OK for our blank.csv schema.
   return String(line ?? '').replace(/\r$/, '').split(',');
 }
 
@@ -218,13 +218,6 @@ function parseCsvSimple(csvText) {
 function recomputeColumnIndices() {
   const h = csvState.header;
   csvState.imageColIdx = h.indexOf('image_file');
-  const findFirstExisting = (...names) => {
-    for (const name of names) {
-      const idx = h.indexOf(name);
-      if (idx >= 0) return idx;
-    }
-    return -1;
-  };
   csvState.colIdx = {
     avgHex: h.indexOf('average_colour_hex'),
     avgRgb: h.indexOf('average_colour_rgb'),
@@ -232,10 +225,9 @@ function recomputeColumnIndices() {
     commonHex: h.indexOf('most_common_colour_hex'),
     commonRgb: h.indexOf('most_common_colour_rgb'),
     commonHsl: h.indexOf('most_common_colour_hsl'),
-    // Support both old blank.csv schema (`price_per_unit`) and new sample.csv schema (`item_price`)
-    pricePerUnit: findFirstExisting('price_per_unit', 'item_price'),
-    categoryPriceAverage: findFirstExisting('category_price_average'),
-    priceFactorToAverage: findFirstExisting('price_factor_to_average'),
+    pricePerUnit: h.indexOf('price_per_unit'),
+    categoryPriceAverage: h.indexOf('category_price_average'),
+    priceFactorToAverage: h.indexOf('price_factor_to_average'),
   };
 }
 
@@ -774,7 +766,7 @@ function handleFolder(event) {
 
   // Browser security: can't write into the chosen folder via <input type="file">.
   // Fallback: generate a CSV and download it for the user to place into the folder.
-  const chosenCsvName = csvFiles[0]?.name || 'sample.csv';
+  const chosenCsvName = csvFiles[0]?.name || 'blank.csv';
   setStatus(`Found ${jpgNames.length} JPG(s). Generating ${chosenCsvName} for download (place it into the selected folder)...`);
 
   (async () => {
@@ -792,7 +784,7 @@ function handleFolder(event) {
 
 async function handleFolderViaFSAccess() {
   if (!('showDirectoryPicker' in window)) {
-    setStatus('Your browser does not support folder write access here. Use the file input above (it will download sample.csv if missing).');
+    setStatus('Your browser does not support folder write access here. Use the file input above (it will download blank.csv if missing).');
     return;
   }
 
@@ -825,10 +817,10 @@ async function handleFolderViaFSAccess() {
       return;
     }
 
-    const targetCsvName = firstCsvName || 'sample.csv';
+    const targetCsvName = firstCsvName || 'blank.csv';
     setStatus(`Found ${jpgNames.length} JPG(s). Updating ${targetCsvName}…`);
 
-    // Load existing CSV if present, otherwise start from sample.csv template
+    // Load existing CSV if present, otherwise start from blank.csv template
     let baseCsvText = '';
     if (firstCsvName) {
       const csvHandle = await dirHandle.getFileHandle(firstCsvName, { create: false });
