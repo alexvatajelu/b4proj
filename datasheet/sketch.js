@@ -4,6 +4,7 @@ let folderPickerBtn;
 let statusEl;
 let tableContainer;
 let imgEl;
+let tableRowEls = [];
 let prevBtn, nextBtn;
 let rowInfoEl;
 let writeCurrentBtn, writeAllBtn;
@@ -649,6 +650,8 @@ function renderTable() {
   if (!tableContainer) return;
   tableContainer.html('');
 
+  tableRowEls = [];
+
   if (!csvState.header.length) {
     tableContainer.html('<div>No CSV loaded yet.</div>');
     return;
@@ -661,6 +664,7 @@ function renderTable() {
 
   const thead = createElement('thead');
   thead.parent(table);
+
   const trh = createElement('tr');
   trh.parent(thead);
 
@@ -681,31 +685,44 @@ function renderTable() {
   csvState.rows.forEach((row, idx) => {
     const tr = createElement('tr');
     tr.parent(tbody);
-    tr.style('cursor', 'pointer');
-    tr.mousePressed(() => selectRow(idx));
 
-    const isSel = idx === csvState.selectedRow;
-    if (isSel) tr.style('background', '#e8f0ff');
+    tableRowEls.push(tr);
+
+    tr.style('cursor', 'pointer');
+
+    tr.mouseClicked(() => selectRow(idx));
+
+    if (idx === csvState.selectedRow) {
+      tr.style('background', '#e8f0ff');
+    }
 
     for (let c = 0; c < csvState.header.length; c++) {
       const td = createElement('td', row[c] ?? '');
       td.parent(tr);
+
       td.style('border', '1px solid #ddd');
       td.style('padding', '3px 6px');
       td.style('white-space', 'nowrap');
       td.style('max-width', '240px');
       td.style('overflow', 'hidden');
       td.style('text-overflow', 'ellipsis');
+
       td.attribute('contenteditable', 'true');
-      // Keep csvState in sync with manual edits
+
+      // prevent row click when editing
+      td.elt.addEventListener('mousedown', (e) => {
+        e.stopPropagation();
+      });
+
       td.elt.addEventListener('input', (e) => {
         const text = e.target.textContent;
         ensureRowHasLength(csvState.rows[idx]);
         csvState.rows[idx][c] = text;
       });
+
       td.elt.addEventListener('blur', () => {
         recomputePriceFactors();
-        // Optionally persist to disk if we have FS Access
+
         if (currentDirHandle && currentCsvFilename) {
           persistCsvStateIfPossible();
         }
@@ -716,20 +733,28 @@ function renderTable() {
 
 async function selectRow(idx) {
   if (!csvState.rows.length) return;
+
   csvState.selectedRow = Math.max(0, Math.min(idx, csvState.rows.length - 1));
 
-  // Update row info
-  if (rowInfoEl) rowInfoEl.html(`Row ${csvState.selectedRow + 1} / ${csvState.rows.length}`);
+  if (rowInfoEl) {
+    rowInfoEl.html(`Row ${csvState.selectedRow + 1} / ${csvState.rows.length}`);
+  }
 
-  // Enable/disable buttons
   if (prevBtn) prevBtn.elt.disabled = csvState.selectedRow <= 0;
   if (nextBtn) nextBtn.elt.disabled = csvState.selectedRow >= csvState.rows.length - 1;
 
-  // Re-render table highlight + image
-  renderTable();
+  tableRowEls.forEach((rowEl, i) => {
+    if (i === csvState.selectedRow) {
+      rowEl.style('background', '#e8f0ff');
+    } else {
+      rowEl.style('background', '');
+    }
+  });
+
   const imageName = csvState.imageColIdx >= 0
     ? (csvState.rows[csvState.selectedRow][csvState.imageColIdx] ?? '').trim()
     : '';
+
   await setImagePreviewByName(imageName);
 }
 
