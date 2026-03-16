@@ -1,54 +1,76 @@
+/*
+point gradient shader:
+
+1
+put shaders file into same folder as index.html
+put: "<script src="shaders/jsgradient.js"></script>"  into html head
+
+2
+to use:
+create a WEBGL canvas with: "createCanvas(width, height, WEBGL)"
+and a gradient buffer of same size: "gradientBuffer = createGraphics(width, height, WEBGL)"
+note: if canvas size is adjested, gradient buffer size should be adjusted too
+
+run loadGradient(table)
+table in format of array of arrays e.g. [[x, y, hex], [x, y, hex], .....] -- x and y in range (0 to 1)
+
+run drawGradient(x position, y position, width, height, value 1, value 2, value 3, value 4)
+x and y positions are in WEBGL canvas format
+values 1 - 4 are for extra control, not necessary but may be adjusted as desired for change in look
+*/
+
+
+
+
 let width, height;
 let data, table;
 let fileName = 'sampledata.csv';
 
-let screen = 0;
-
+// for sliders - not necessary
 let s1, s1v;
 let s2, s2v;
 let s3, s3v;
 let s4, s4v;
 
-async function preload() {
+async function preload() {                                 // here data csv is preloaded before running
   data = await loadTable(fileName, ',', 'header');
-  //console.log('file loaded:', data);
   gradient = loadShader('shaders/gradient.vert', 'shaders/gradient.frag');
+  effect = loadShader('shaders/effect.vert', 'shaders/effect.frag');
 }
 
 function setup() {
   width = windowWidth;
   height = windowHeight;
 
-  createCanvas(width, height, WEBGL);
+  createCanvas(width, height, WEBGL);                       // must use WEBGL canvas
+  gradientBuffer = createGraphics(width, height, WEBGL);    // also necessary as 2 shaders are running
 
-  tableize(data);
+  tableize(data);                                            // turns csv into array of arrays
   console.log('data length', table.length);
   console.log('data', table);
+  loadGradient(table);                                       // takes in array of arrays e.g. [[x, y, hex], [x, y, hex], .....] -- x and y in range (0 to 1)
 
-  textureizePoints(table);
-
-  s1 = createSlider(0, 1, 0.5, 0.01);
+  // sliders -- not necessary
+  s1 = createSlider(0, 1, 0.33, 0.01);
   s1.position(10, 10);
-  
-  s2 = createSlider(0, 1, 0.5, 0.01);
+  s2 = createSlider(0, 1, 0.86, 0.01);
   s2.position(10, 40);
-
-  s3 = createSlider(0, 1, 0.5, 0.01);
+  s3 = createSlider(0, 1, 0.7, 0.01);
   s3.position(10, 70);
-
   s4 = createSlider(0, 1, 0.5, 0.01);
   s4.position(10, 100);
 }
 
-function windowResized() {
+function windowResized() {                                     // resizing window -- not necessary
   width = windowWidth;
   height = windowHeight;
   resizeCanvas(width, height);
-  i = 0;
+  if (gradientBuffer) gradientBuffer.resizeCanvas(width, height);
 }
 
 
-function tableize(data) {
+function tableize(data) {                                       // turns csv into array of arrays here, where csv only contains x, y and hex
+                                                                // adjust for data as needed
   table = [];
   for (let i = 0; i < data.rows.length; i++) {
     table.push(
@@ -61,20 +83,11 @@ function tableize(data) {
   }
 }
 
-function hexToRgb(hex) {
-    hex = hex.replace('#', '');
 
-    var bigint = parseInt(hex, 16);
-
-    var r = (bigint >> 16) & 255;
-    var g = (bigint >> 8) & 255;
-    var b = bigint & 255;
-
-    return [r, g, b];
-}
 
 loop = 0;
 function draw(){
+  // sliders -- not necessary
   let s1v = s1.value();
   let s2v = s2.value();
   let s3v = s3.value();
@@ -82,112 +95,11 @@ function draw(){
 
   clear();
 
-  let cases = 2;
-  if(screen % cases == 0){
-    //test();
-    drawGradient(-400, -400, 800, 800, s1v * 1, s2v * 1, s3v * 1, s4v * 1);
-  } else if (screen % cases == 1){
-    test();
-  }
+  drawGradient(-400, -400, 800, 800, s1v, s2v, s3v, s4v);         // drawing gradient after loadGradient()
+                                                                  // IMPORTANT!!
+                                                                  // loadGradient() must be run first, or if data is changed
+                                                                  // IMPORTANT!!
+  //gradientTest();                                               // function to display point data textures -- for testing / diagnosis
+
   loop++;
-}
-
-
-
-const texSize = 32;
-
-function textureizePoints(table){
-
-  pointPosTex = createGraphics(texSize, 1);
-  pointPosTex.pixelDensity(1);
-  pointPosTex.loadPixels();
-  
-  pointColTex = createGraphics(texSize, 1);
-  pointColTex.pixelDensity(1);
-  pointColTex.loadPixels();
-
-  for (let i = 0; i < texSize; i++){
-    if (i < (table.length)){
-      let ix = i * 4;
-
-      let x = float(table[i][0]);
-      let y = float(table[i][1]);
-      let col = hexToRgb(table[i][2]);
-      console.log('row', i, 'x', x, 'y', y, 'col', col);
-
-      pointPosTex.pixels[ix + 0] = 255;
-      pointPosTex.pixels[ix + 1] = x * 255;
-      pointPosTex.pixels[ix + 2] = y * 255;
-      pointPosTex.pixels[ix + 3] = 255;
-      
-      pointColTex.pixels[ix + 0] = col[0];
-      pointColTex.pixels[ix + 1] = col[1];
-      pointColTex.pixels[ix + 2] = col[2];
-      pointColTex.pixels[ix + 3] = 255;
-      
-    } else {
-      for (let j = 0; j < 4; j++){
-        pointPosTex.pixels[i*4 + j] = 0;
-        pointColTex.pixels[i*4 + j] = 100;
-
-        console.log('row', i, '---blank---')
-      }
-    }
-  }
-
-  /*
-  let v = 7;
-
-  pointColTex.pixels[v * 4 + 0] = 255;
-  pointColTex.pixels[v * 4 + 1] = 0;
-  pointColTex.pixels[v * 4 + 2] = 0;
-  pointColTex.pixels[v * 4 + 3] = 255;
-  */
-
-  pointPosTex.updatePixels();
-  pointColTex.updatePixels();
-
-}
-
-function drawGradient(x = -200, y = -200, w = 400, h = 400, val1 = 0.5, val2 = 0.5, val3 = 0.5, val4 = 0.5){
-  console.log('drawing gradient at:', x, y, 'with dimensions:', w, h, 'val1:', val1, 'val2:', val2);
-
-  shader(gradient);
-  gradient.setUniform('u_pointPosTex', pointPosTex);
-  gradient.setUniform('u_pointColTex', pointColTex);
-  gradient.setUniform('u_pointTexSize', [texSize] );
-  gradient.setUniform('u_extras', [val1, val2, val3, val4] );
-
-  pointPosTex.textureFiltering = NEAREST;
-  pointColTex.textureFiltering = NEAREST;
-
-
-  /*
-  gradient.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-  gradient.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
-  */
-
-  quad(2 * x / width, 2 * y / height, 2 * (w + x) / width, 2 * y / height, 2 * (w + x) / width, 2 * (h + y) / height, 2 * x / width, 2 * (h + y) / height);
-}
-
-function test(){
-
-  textureMode(IMAGE);
-  texture(pointColTex);
-
-  rect(-200, 0, 400, 200);
-
-  textureMode(IMAGE);
-  texture(pointPosTex); 
-
-  rect(-200, -200, 400, 200);
-  
-}
-
-
-function keyPressed(){
-  if (key == "t"){
-    screen++;
-    console.log(screen);
-  }
 }
