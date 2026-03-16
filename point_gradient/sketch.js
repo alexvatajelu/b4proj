@@ -24,7 +24,8 @@ values 1 - 4 are for extra control, not necessary but may be adjusted as desired
 
 let width, height;
 let data, table;
-let fileName = 'sampledata.csv';
+//let fileName = 'sampledata.csv';  // columns [0], [1], [2]
+let fileName = 'data1.csv';         // columns [8] split by " " / 100, [13], [6]
 
 // for sliders - not necessary
 let s1, s1v;
@@ -75,9 +76,9 @@ function tableize(data) {                                       // turns csv int
   for (let i = 0; i < data.rows.length; i++) {
     table.push(
       [
-      data.rows[i].arr[0],
-      data.rows[i].arr[1],
-      data.rows[i].arr[2]
+      split(data.rows[i].arr[8], " ")[1] / 100,
+      data.rows[i].arr[13],
+      data.rows[i].arr[6]
       ]
     );
   }
@@ -95,7 +96,7 @@ function draw(){
 
   clear();
 
-  drawGradient(-400, -400, 800, 800, s1v, s2v, s3v, s4v);         // drawing gradient after loadGradient()
+  drawGradient(-400, -400, 600, 600, s1v, s2v, s3v, s4v);         // drawing gradient after loadGradient()
                                                                   // IMPORTANT!!
                                                                   // loadGradient() must be run first, or if data is changed
                                                                   // IMPORTANT!!
