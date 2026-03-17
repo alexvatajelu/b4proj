@@ -1,0 +1,8 @@
+item_name,image_file,category,average_colour_hex,average_colour_rgb,average_colour_hsl,most_common_colour_hex,most_common_colour_rgb,most_common_colour_hsl,price_per_unit,unit,reciprocal_affordability,category_price_average,price_factor_to_average
+Iceland 10 Mixed Weight British Eggs,iceland_10_mixed_weight_eggs_41508.jpg,eggs,#d5b5ab,213 181 171,14 33 75,#dcdcd4,220 220 212,60 10 85,1.90,,,2.81,0.676
+Iceland British Semi-Skimmed Milk 2 Litres,iceland_british_semi-skimmed_milk_2_litres_2l_19492.jpg,milk,#bec8b5,190 200 181,92 15 75,#ece4d4,236 228 212,40 39 88,1.65,,,2.99,0.552
+Iceland Broccoli,iceland_broccoli_57193.jpg,broccoli,#5c6b3a,92 107 58,78 30 32,#f4f4f4,244 244 244,0 0 96,1.00,,,5.56,0.180
+Iceland Chicken Mini Breast Fillets 400g,iceland_chicken_breast_fillets_400g_79403.jpg,chicken breast,#cca187,204 161 135,23 40 66,#943414,148 52 20,15 76 33,4.30,,,5.59,0.769
+Iceland Closed Cup Mushrooms 300g,iceland_closed_cup_mushrooms_19722.jpg,mushrooms,#97a188,151 161 136,84 12 58,#dcdcdc,220 220 220,0 0 86,1.00,,,1.57,0.637
+Iceland British Lean Diced Beef 5% Fat 275g,iceland_lean_beef_steak_mince_325g_79718.jpg,beef mince,#cc9997,204 153 151,2 34 70,#ececec,236 236 236,0 0 93,4.50,,,8.01,0.562
+Iceland Oranges 4pk,iceland-oranges-5pk_19749.jpg,orange,#c98d59,201 141 89,28 51 57,#8cacd4,140 172 212,213 46 69,2.25,,,3.24,0.694
