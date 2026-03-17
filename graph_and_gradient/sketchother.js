@@ -172,7 +172,7 @@ function draw(){
     fill(0);
     //text(ptext, px + rectS / 2, py - 5 - (rescale/2));
     
-    if (mdist<closest[1]){closest=[i,mdist]}
+    if (mdist<=closest[1]){closest=[i,mdist]}
   }
 
 

@@ -1,5 +1,7 @@
 let gPos = [-400,-300,900,600];               //place anywhere
 let fullscreen = 1;                           //or use fullscreen
+let s = 0;                                    //show sliders
+
 
 let width, height;
 let data, table;
@@ -7,7 +9,7 @@ let data, table;
 //let folder = 'iceland_assorted';
 let folder = 'waitrose';
 let csvname = 'sample';
-let priceRange = [0,2];                       //customise to fit scale of data price range
+let priceRange = [0,1.5];                       //customise to fit scale of data price range
 
 let s1, s1v;
 let s2, s2v;
@@ -15,7 +17,6 @@ let s3, s3v;
 let s4, s4v;
 
 let imgs = [];
-let s = 0;
 
 let myFont;
 
@@ -48,7 +49,7 @@ function setup() {
   loadGradient(table, priceRange);
 
 
-  if (s){
+  if (s==1){
     s1 = createSlider(0, 1, 0.1, 0.01);
     s1.position(10, 10);
     s2 = createSlider(0, 1, 0.13, 0.01);
@@ -107,16 +108,17 @@ function tableize(data) {
 
 loop = 0;
 function draw(){
-  if (s){
-    let s1v = s1.value();
-    let s2v = s2.value();
-    let s3v = s3.value();
-    let s4v = s4.value();
+  if (s==1){
+    s1v = s1.value();
+    s2v = s2.value();
+    s3v = s3.value();
+    s4v = s4.value();
   }
 
   let amx, amy;
 
   clear();
+  colorMode(RGB);
   
   drawGradient(gPos[0], gPos[1], gPos[2], gPos[3], s1v, s2v, s3v, s4v);
   //drawGradient(-width / 2, -height / 2, width, height, s1v, s2v, s3v, s4v);
@@ -134,14 +136,25 @@ function draw(){
 
   noStroke();
   fill(255);
-  rect(gPos[0], gPos[1]+(gPos[3]/2)-1, gPos[2], 2);
-  rect(gPos[0]+(gPos[2]/2)-1, gPos[1], 2, gPos[3]);
-  
+  rect(gPos[0], gPos[1]+(gPos[3]/2)-1, gPos[2], 1.5);
+  rect(gPos[0]+(gPos[2]/2)-1, gPos[1], 1.5, gPos[3]);
+
   fill(0);
   text("Price compared to average: " + priceRange[1], gPos[0]+(gPos[2]/2)+5, gPos[1]+15);
   text("Price compared to average: " + priceRange[0], gPos[0]+(gPos[2]/2)+5, gPos[1]+gPos[3]-5);
   text("Saturation: 0", gPos[0]+5, gPos[1]+(gPos[3]/2)+15);
   text("Saturation: 1", gPos[0]+gPos[2]-77, gPos[1]+(gPos[3]/2)+15);
+
+
+  if (priceRange[0]<1 && priceRange[1]>1){
+    noStroke();
+    fill(255);
+    let ratio = 1/(1-((1-priceRange[0])/(priceRange[1]-priceRange[0])));
+    rect(gPos[0], gPos[1]+(gPos[3]/ratio)-1, gPos[2], 0.4);
+    fill(0);
+    text("Average product price", gPos[0]+5, gPos[1]+(gPos[3]/ratio)-5);
+
+  }
 
   amx = round(constrain(((mouseX - width / 2) - gPos[0]) / gPos[2], 0, 1), 2);
   amy = round( (constrain(((mouseY - height / 2) - gPos[1]) / gPos[3], 0, 1)) * (priceRange[0] - priceRange[1]) + priceRange[1], 2);
@@ -162,7 +175,7 @@ function draw(){
     let ptext = (round(table[i][0]*100,2) + '%  ' + round(table[i][1] * (priceRange[1]-priceRange[0]) + priceRange[0],2) + '  ' + table[i][2]);
 
     let mdist = pow(pow(amx - table[i][0], 2) + pow(amy - (table[i][1] * (priceRange[1]-priceRange[0]) + priceRange[0]), 2), 0.5);
-    let rescale = 2 / (mdist + 0.05);
+    let rescale = 3 / (mdist + 0.06);
 
     //stroke(255);
     fill(pcol);
