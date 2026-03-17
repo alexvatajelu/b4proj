@@ -5,9 +5,9 @@ let width, height;
 let data, table;
 
 //let folder = 'iceland_assorted';
-let folder = 'waitrose';
-let csvname = 'sample';
-let priceRange = [0,2];                       //customise to fit scale of data price range
+let folder = 'othercsvnoimg';
+let csvname = 'data (1)';
+let priceRange = [0,1];                       //customise to fit scale of data price range
 
 let s1, s1v;
 let s2, s2v;
@@ -15,7 +15,7 @@ let s3, s3v;
 let s4, s4v;
 
 let imgs = [];
-let s = 0;
+let s = 1;
 
 let myFont;
 
@@ -91,13 +91,14 @@ function tableize(data) {
           */
         split(data.rows[i].arr[2], " ")[1] / 100,
         ((data.rows[i].arr[1]- priceRange[0]) / (priceRange[1] - priceRange[0])),
-        data.rows[i].arr[3],
+        //data.rows[i].arr[2], ///turn to hsl to hex
+        hslToHex(split(data.rows[i].arr[2], " ")[0],split(data.rows[i].arr[2], " ")[1],split(data.rows[i].arr[2], " ")[2]),
         data.rows[i].arr[0],
-        data.rows[i].arr[6]
+        data.rows[i].arr[0]
         ]
       );
-    console.log(folder+'/'+data.rows[i].arr[6]);
-      imgs.push(loadImage(folder+'/'+data.rows[i].arr[6]));
+    console.log(folder+'/'+data.rows[i].arr[0]);
+      imgs.push(loadImage(folder+'/'+data.rows[i].arr[0]));
     }
     //console.log("ppp", data.rows[i].arr[13],((data.rows[i].arr[13]- priceRange[0]) / (priceRange[1] - priceRange[0])));
   }
@@ -108,10 +109,10 @@ function tableize(data) {
 loop = 0;
 function draw(){
   if (s){
-    let s1v = s1.value();
-    let s2v = s2.value();
-    let s3v = s3.value();
-    let s4v = s4.value();
+    s1v = s1.value();
+    s2v = s2.value();
+    s3v = s3.value();
+    s4v = s4.value();
   }
 
   let amx, amy;
@@ -169,14 +170,36 @@ function draw(){
     rect(px - (rescale/2), py - (rescale/2), rectS + rescale, rectS + rescale);
 
     fill(0);
-    text(ptext, px + rectS / 2, py - 5 - (rescale/2));
+    //text(ptext, px + rectS / 2, py - 5 - (rescale/2));
     
     if (mdist<closest[1]){closest=[i,mdist]}
   }
 
+
+    for (let i = 0; i < table.length; i++){
+    let px = map(table[i][0], 0, 1, gPos[0], gPos[0]+gPos[2]) - rectS / 2;
+    let py = map(table[i][1], 0, 1, gPos[1] + gPos[3], gPos[1]) - rectS / 2;
+    //let py = map(table[i][1], 0, 1, gPos[1], gPos[1]+gPos[3]) - rectS / 2;
+    let pcol = color(table[i][2]);
+
+    let ptext = (round(table[i][0]*100,2) + '%  ' + round(table[i][1] * (priceRange[1]-priceRange[0]) + priceRange[0],2) + '  ' + table[i][2]);
+
+    let mdist = pow(pow(amx - table[i][0], 2) + pow(amy - (table[i][1] * (priceRange[1]-priceRange[0]) + priceRange[0]), 2), 0.5);
+    let rescale = 2 / (mdist + 0.05);
+
+    //stroke(255);
+    fill(pcol);
+    //rect(px - (rescale/2), py - (rescale/2), rectS + rescale, rectS + rescale);
+
+    fill(0);
+    text(ptext, px + rectS / 2, py - 5 - (rescale/2));
+    
+   //if (mdist<closest[1]){closest=[i,mdist]}
+  }
+
   //let closest = table[minIndex(rlist)];
   let exs = 8;
-  if (closest[1]<0.05){
+  if (closest[1]<0.02){
     fill(table[closest[0]][2]);
     rect(gPos[0]+gPos[2]-rectS*exs*1.2,gPos[1]+gPos[3]-rectS*exs*1.2,rectS*exs,rectS*exs);
     fill(0);
@@ -197,3 +220,38 @@ function draw(){
   loop++;
 }
 
+
+
+
+// Source - https://stackoverflow.com/a/44134328
+// Posted by Juraj, modified by community. See post 'Timeline' for change history
+// Retrieved 2026-03-17, License - CC BY-SA 4.0
+
+function hslToHex(h, s, l) {
+  h /= 360;
+  s /= 100;
+  l /= 100;
+  let r, g, b;
+  if (s === 0) {
+    r = g = b = l; // achromatic
+  } else {
+    const hue2rgb = (p, q, t) => {
+      if (t < 0) t += 1;
+      if (t > 1) t -= 1;
+      if (t < 1 / 6) return p + (q - p) * 6 * t;
+      if (t < 1 / 2) return q;
+      if (t < 2 / 3) return p + (q - p) * (2 / 3 - t) * 6;
+      return p;
+    };
+    const q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+    const p = 2 * l - q;
+    r = hue2rgb(p, q, h + 1 / 3);
+    g = hue2rgb(p, q, h);
+    b = hue2rgb(p, q, h - 1 / 3);
+  }
+  const toHex = x => {
+    const hex = Math.round(x * 255).toString(16);
+    return hex.length === 1 ? '0' + hex : hex;
+  };
+  return `#${toHex(r)}${toHex(g)}${toHex(b)}`;
+}
