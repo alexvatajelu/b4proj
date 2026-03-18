@@ -44,8 +44,8 @@ void main() {
 
             
             vec2 roff = vec2(
-                (n * (rand(vec2(uv.x + uv.y+1.11) * 13.6) - 0.5)),
-                (n * (rand(vec2(uv.x + uv.y) * 12.3) - 0.5))
+                (n * (rand(vec2(uv.x*1.112 + uv.y+1.11) * 13.6) - 0.5)),
+                (n * (rand(vec2(uv.x + uv.y*1.0923) * 12.3) - 0.5))
                 );
             
 
