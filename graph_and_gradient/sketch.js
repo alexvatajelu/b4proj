@@ -9,9 +9,9 @@ let width, height;
 let data, table;
 
 //let folder = 'iceland_assorted';
-let folder = 'waitrose';
+let folder = 'aldi';
 let csvname = 'sample';
-let priceRange = [0,3];                       //customise to fit scale of data price range
+let priceRange = [0,1.5];                       //customise to fit scale of data price range
 
 let s1, s1v;
 let s2, s2v;
