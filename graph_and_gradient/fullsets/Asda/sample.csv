@@ -1,0 +1,14 @@
+item_name,price_factor_to_average,most_common_colour_hsl,most_common_colour_hex,item_price,category_price_average,image_file
+Baked Beans,0.183,353 63 55,#d44454,0.42,2.29,0000021045622.jpg
+Coffee,0.549,34 97 45,#e48404,2.65,4.83,0000021178610.jpg
+Milk,0.808,30 19 83,#dcd4cc,2.40,2.97,20337087_T1.jpg
+Eggs,1.018,70 47 80,#dce4b4,2.85,2.80,27348048.jpg
+Cheese,0.725,351 72 28,#7c1424,3.00,4.14,5000295167162_T1.jpg
+Chicken Breast,1.149,9 51 78,#e4b4ac,6.94,6.04,5054070266106_T1.jpg
+Beef Mince,0.649,0 0 93,#ececec,5.19,8.00,5054070875247_T1.jpg
+Carrots,0.524,0 0 96,#f4f4f4,0.55,1.05,5054781580058_T1.jpg
+Pepper,0.709,0 0 93,#ececec,2.10,2.96,5054781580096_T1.jpg
+Salmon Fillets,0.792,0 0 96,#f4f4f4,5.43,6.86,5055946001685_T1.jpg
+Pasta Bake,1.872,60 24 27,#545434,4.23,2.26,5057172213917_T1.jpg
+Potatoes,0.776,0 0 96,#f4f4f4,1.80,2.32,5063089466797.jpg
+Butter,0.463,37 75 44,#c4841c,1.90,4.10,8719200269743_T1.jpg

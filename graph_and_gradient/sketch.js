@@ -1,4 +1,4 @@
-let gPos = [-400,-300,900,600];               //place anywhere
+let gPos = [-300,-300,900,600];               //place anywhere
 let fullscreen = 1;                           //or use fullscreen
 let ui = 1;                                   //show ui
 let co = 0;                                   //show sliders
@@ -9,9 +9,9 @@ let width, height;
 let data, table;
 
 //let folder = 'iceland_assorted';
-let folder = 'aldi';
+let folder = 'fullsets';
 let csvname = 'sample';
-let priceRange = [0,1.5];                       //customise to fit scale of data price range
+let priceRange = [0,2];                       //customise to fit scale of data price range
 
 let s1, s1v;
 let s2, s2v;
@@ -86,7 +86,7 @@ function tableize(data) {
 
   table = [];
   for (let i = 0; i < data.rows.length; i++) {
-    if (data.rows[i].arr[0]){
+    if (data.rows[i].arr[1]){
     table.push(       // hsl s, affordab, hex, name, jpg
         [
           /*

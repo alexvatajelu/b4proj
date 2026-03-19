@@ -1,0 +1,51 @@
+item_name,price_factor_to_average,most_common_colour_hsl,most_common_colour_hex,item_price,category_price_average,image_file
+Baby Plum Tomatoes,2.338,0 0 93,#ececec,1.59,0.68,Baby Plum Tomatoes.jpg
+British Baking Potatoes,1.110,0 13 88,#e4dcdc,2.32,2.09,British Baking Potatoes.jpg
+British Salted Butter 250g,0.706,5 84 49,#e42414,1.99,2.82,British Salted Butter 250g.jpg
+Chicken Breast Fillets,0.803,0 0 93,#ececec,4.49,5.59,Chicken Breast Fillets.jpg
+Cooked & Peeled Coldwater Prawns,0.476,0 0 93,#ececec,1.99,4.18,Cooked  Peeled Coldwater Prawns.jpg
+Cooked Beetroot,0.375,150 29 33,#3c6c54,0.66,1.76,Cooked Beetroot.jpg
+Corn Flakes Cereal,0.365,0 0 93,#ececec,0.95,2.60,Corn Flakes Cereal.jpg
+Free Range Eggs 6 Pack,0.351,30 46 86,#ecdccc,0.99,2.82,Free Range Eggs 6 Pack.jpg
+Galia Melon,0.685,60 46 86,#ececcc,1.85,2.70,Galia Melon.jpg
+Grated Cheddar Cheese,0.753,200 96 39,#0484c4,2.99,3.97,Grated Cheddar Cheese.jpg
+Medium Sliced White Bread,0.396,0 0 89,#e4e4e4,0.55,1.39,Medium Sliced White Bread.jpg
+Olive Oil Extra Virgin,0.523,0 0 2,#040404,5.49,10.49,Olive Oil Extra Virgin.jpg
+Oranges,0.428,33 90 58,#f49c34,1.39,3.25,Oranges.jpg
+Pork Sausages 6 Pack,0.992,0 0 93,#ececec,2.49,2.51,Pork Sausages 6 Pack.jpg
+Skimmed UHT Milk,0.232,30 23 86,#e4dcd4,0.69,2.97,Skimmed UHT Milk.jpg
+Smoked Salmon Slices,0.821,225 53 24,#1c2c5c,4.49,5.47,Smoked Salmon Slices.jpg
+Eggs,1.011,355 78 52,#e42434,2.85,2.82,15cec68a-60dd-43e0-baa8-45440c97c7e5.jpeg.jpg
+Banana,,37 44 53,#bc9454,0.16,,1b874655-7346-4bd3-8907-b01c77ed1f0b.jpeg.jpg
+Salmon ,0.700,37 44 53,#bc9454,4.80,6.86,3c2a9237-9cad-4750-a781-cbb89d296cef.jpeg.jpg
+Blueberries,,229 35 50,#5464ac,4.55,,3eac5a9b-6b70-4318-a5be-2677588f1535.jpeg.jpg
+Biscuits,1.868,3 81 41,#bc1c14,3.25,1.74,45510fd0-5591-461a-9eaa-c5d9bed40f20_1064026786.jpeg.jpg
+Milk,1.194,60 39 88,#ececd4,2.40,2.01,627154bb-0597-47ea-9347-a0ec06d4b82d.jpeg.jpg
+Steak Mince,0.727,0 0 89,#e4e4e4,8.00,11.01,6c60db2e-fe83-4a80-92f3-d1fcf33bee64.jpg
+Mature Grated Cheddar,0.509,37 44 53,#bc9454,2.70,5.30,b64a7c93-a6c9-471e-95ca-e08ffe417a61.jpeg.jpg
+Pasta Baker ,1.549,148 93 22,#046c34,3.50,2.26,cb646795-e9fa-4c73-98cf-c98d3a608175.jpg
+Orange Juice ,0.535,0 0 96,#f4f4f4,1.60,2.99,d8ff9d90-f647-4e17-834a-4c9016d1db12_1250574320.jpeg.jpg
+Roast Beef ,,0 0 96,#f4f4f4,,,Unknown.jpg
+Apple,0.923,333 96 36,#b40454,1.79,1.94,1DEC0D1F9207E62F9243BC7BA69E4896EBA3FC987FF3CC94FB7CAC86AB76CDA3.jpg
+Mixed Veg,0.820,344 96 36,#b40434,1.50,1.83,4FAAAAA146BBD6D81BFF1173488D5153E7FC526116E8352843EA317CF3C5250E.jpg
+Apple Juice,0.358,0 0 93,#ececec,1.10,3.07,5867BEDBFA36C5953A45BB3C56A8BD6EC42C08A9285F286AD06192EEACD1DF3A.jpg
+Eggs,0.670,223 39 28,#2c3c64,1.89,2.82,83A11C3E45C2F572F86E165CD0A67FB082116E08DDD7E87BF781C6C3D2350B50.jpg
+Ice Cream,0.497,12 42 19,#44241c,1.85,3.72,8D4637A44610D6382CBD8FFDFED924CA39EFA50AB9D907E677CC7C0731269A90.jpg
+Orange Juice,0.502,41 98 50,#fcac04,1.50,2.99,9DC338B0C61F616F72A1B8C4A9F89401BF9F296D6E63DFEE5DC2E912E3D78ABD.jpg
+Salmon Fillets,0.873,0 0 96,#f4f4f4,5.99,6.86,C0C04A9D3B9B41E218E25E392D08DE71D5A53A149091ACC3E40985055A44F831.jpg
+Banana,0.446,50 90 58,#f4d434,1.20,2.69,D0AE46A7AB59BB14F02B2F6BD57C3839A557EF3D5E376F9E5A1E9AC835EF1224.jpg
+Cereal ,0.321,0 0 93,#ececec,1.19,3.71,EAF0239C99CA3EF0CE6059222732D754EB2728290E5C93A55DA5F8DF243635EF.jpg
+Beef Mince ,0.461,0 98 50,#fc0404,3.69,8.00,F065A122F919B7CE0FF7ABBDE6F6DC10EE59DFE0E4466871FCFE8E35FE81FC03.jpg
+Baked Beans,0.183,353 63 55,#d44454,0.42,2.29,0000021045622.jpg
+Coffee,0.549,34 97 45,#e48404,2.65,4.83,0000021178610.jpg
+Milk,0.808,30 19 83,#dcd4cc,2.40,2.97,20337087_T1.jpg
+Eggs,1.018,70 47 80,#dce4b4,2.85,2.80,27348048.jpg
+Cheese,0.725,351 72 28,#7c1424,3.00,4.14,5000295167162_T1.jpg
+Chicken Breast,1.149,9 51 78,#e4b4ac,6.94,6.04,5054070266106_T1.jpg
+Beef Mince,0.649,0 0 93,#ececec,5.19,8.00,5054070875247_T1.jpg
+Carrots,0.524,0 0 96,#f4f4f4,0.55,1.05,5054781580058_T1.jpg
+Pepper,0.709,0 0 93,#ececec,2.10,2.96,5054781580096_T1.jpg
+Salmon Fillets,0.792,0 0 96,#f4f4f4,5.43,6.86,5055946001685_T1.jpg
+Pasta Bake,1.872,60 24 27,#545434,4.23,2.26,5057172213917_T1.jpg
+Potatoes,0.776,0 0 96,#f4f4f4,1.80,2.32,5063089466797.jpg
+Butter,0.463,37 75 44,#c4841c,1.90,4.10,8719200269743_T1.jpg
