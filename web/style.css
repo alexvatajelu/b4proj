@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 20px;
+  color:rgb(255,0,0);
+  font-size:20px;
+}
+
+canvas {
+  display: block;
+}
+
+.title {
+  font-size: 100px;
+  color:aqua;
+  background-color: rebeccapurple;
+  padding: 10px;
+}
+
+.details {
+  font-size: 30px;
+  color:blue;
+  text-align: right;
+  background-color: bisque;
+}
+
+.story {
+  padding: 20px;
+  background-color: pink;
+}

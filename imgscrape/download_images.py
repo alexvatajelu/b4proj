@@ -23,7 +23,7 @@ from tqdm import tqdm
 import argparse
 
 BASE = os.path.dirname(__file__) or "."
-URLS = os.path.join(BASE, "urls5.txt")
+URLS = os.path.join(BASE, "urlss/urlll6.txt")
 OUTDIR = os.path.join(BASE, "downloaded_images")
 
 def ext_from_response(resp, url):
