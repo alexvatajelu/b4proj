@@ -9,7 +9,7 @@ let width, height;
 let data, table;
 
 //let folder = 'iceland_assorted';
-let folder = 'fullsets';
+let folder = 'iiidata';
 let csvname = 'sample';
 let priceRange = [0,2];                       //customise to fit scale of data price range
 

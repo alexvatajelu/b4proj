@@ -1,0 +1,2236 @@
+Iceland Foods	
+supermarket
+120 Shirley High Street Southampton ENG GB SO16 4EZ
+Iceland Foods	
+supermarket
+41 Regent Street Bristol ENG GB BS15 8LA
+Iceland Foods	
+supermarket
+9/13 Northwalk Yate GB BS37 4AP
+Iceland Foods	
+supermarket
+121 High Street Swindon ENG GB SN4 7AU
+Iceland Foods	
+supermarket
+56 Cricklade Road Swindon ENG GB SN2 8AF
+Iceland Foods	
+supermarket
+549 Saffron Lane Leicester ENG GB LE2 6UL
+Iceland Foods	
+meat_wholesaler
+9/10 Grove Court Station Road Biggleswade GB SG18 8AP
+Iceland Foods	
+health_food_store
+571 Roman Road London ENG GB E3 5EL
+Iceland Foods	
+supermarket
+5 Edinburgh Road Portsmouth ENG GB PO1 1DE
+Iceland Foods	
+home_goods_store
+Antelope Park Bursledon Road Southampton GB SO19 8NE
+Iceland Foods	
+supermarket
+38 West Street Fareham ENG GB PO16 0JN
+Iceland Foods	
+supermarket
+22 Wellington Way Waterlooville ENG GB PO7 7ED
+Iceland Foods	
+supermarket
+86 Queensmead Farnborough ENG GB GU14 7
+Iceland Foods	
+supermarket
+14 Churchill Parade Littlehampton ENG GB BN16 3
+Iceland Foods	
+supermarket
+5 Queenswalk East Grinstead GB RH19 4DW
+Iceland Foods	
+supermarket
+81 Crockhamwell Road Reading ENG GB RG5 3JP
+Iceland Foods	
+supermarket
+19 High Street Kidlington ENG GB OX5 2DH
+Iceland Foods	
+supermarket
+27 Market Square Uxbridge GB UB8 1LH
+Iceland Foods	
+supermarket
+48 The Broadway Greenford ENG GB UB6 9
+Iceland Foods	
+supermarket
+348 Rayners Lane Pinner ENG GB HA5 5
+Iceland Foods	
+appliance_store
+187 Falklands Gate Glenrothes Fife GB KY7 5NS
+Iceland Foods	
+meat_wholesaler
+9 Fernhill Drive Gilmerton Edinburgh GB EH17 7AR
+Iceland Foods	
+supermarket
+Unit 1 The Concourse Skelmersdale GB WN8 6LE
+Iceland Foods	
+appliance_store
+70 Standish Gate Wigan Lancashire GB WN1 1UW
+Iceland Foods	
+supermarket
+5 Market Walk Chorley ENG GB PR7 1
+Iceland Foods	
+supermarket
+112 Rochdale Road Bury ENG GB BL9 7
+Iceland Foods	
+supermarket
+Queensway 7 Daventry Road Rochdale ENG GB OL11 2LN
+Iceland Foods	
+online_shop
+31 Market Place Exchange Shopping Centre Rochdale GB OL16 1EB
+Iceland Foods	
+supermarket
+64 Bridge Place Worksop ENG GB S80 1JN
+Iceland Foods	
+meat_wholesaler
+Unit 11 The Sherwood Ctr Spar Lane Retford GB DN22 6EA
+Iceland Foods	
+supermarket
+70 South Road Liverpool ENG GB L22 0LY
+Iceland Foods	
+grocery_store
+11 Park Vale Road Liverpool ENG GB L9 2
+Iceland Foods	
+supermarket
+Retail Park Preston Street Whitehaven GB CA28 9DL
+Iceland Foods	
+supermarket
+17/21 Bennett Precinct Longton GB ST3 2HT
+Iceland Foods	
+meat_wholesaler
+7 Market Street Marple Stockport GB SK6 7AA
+Iceland Foods	
+supermarket
+58 High Street Barnstaple ENG GB EX31 1JB
+Iceland Foods	
+supermarket
+90 High Street Irvine SCT GB KA12 0AX
+Iceland Foods	
+supermarket
+Govan Cross Shopping Centre 795 Govan Road Glasgow SCT GB G51 3
+Iceland Foods	
+supermarket
+62 Kilmarnock Road Glasgow SCT GB G41 3NN
+Iceland Foods	
+supermarket
+62 Bank Street Alexandria SCT GB G83 0
+Iceland Foods	
+grocery_store
+1 Gorstan Street Glasgow SCT GB G23 5
+Iceland Foods	
+supermarket
+2 Main Street Glasgow SCT GB G69 6SJ
+Iceland Foods	
+supermarket
+18 Brandon Street Hamilton SCT GB ML3 6
+Iceland Foods	
+supermarket
+42 Shillinghill Alloa SCT GB FK10 1HY
+Iceland Foods	
+supermarket
+10 Manse Road Edinburgh SCT GB EH12 7SN
+Iceland Foods	
+supermarket
+8 Easter Road Edinburgh SCT GB EH7 5RG
+Iceland Foods	
+appliance_store
+Unit 4 Burnley Retail Pk Curzon Street Burnley Lancashire GB BB11 1BX
+Iceland Foods	
+korean_grocery_store
+Unit G1 Wren Nest Retail Park Glossop GB SK13 8HB
+Iceland Foods	
+supermarket
+Unit B Middleton District Centre Leeds GB LS10 4AX
+Iceland Foods	
+supermarket
+30 Market Square Shipley ENG GB BD18 3QB
+Iceland Foods	
+retail
+12/14 St Dominics Square Kings Lynn Norfolk GB PE30 1DT
+Iceland Foods	
+grocery_store
+179 High Street Birmingham ENG GB B17 9QE
+Iceland Foods	
+supermarket
+Unit 3 Windmill Shopping Centre Smethwick GB B66 3PR
+Iceland Foods	
+eat_and_drink
+7 Sandwell Road West Bromwich ENG GB B70 8
+Iceland Foods	
+supermarket
+20 Fox Grove Birmingham ENG GB B27 7
+Iceland Foods	
+supermarket
+128 Church Road Birmingham ENG GB B25 8UT
+Iceland Foods	
+supermarket
+577 Kingstanding Road Birmingham ENG GB B44 9TA
+Iceland Foods	
+supermarket
+Lancaster Retail Park Brixton Way Shrewsbury GB SY1 3AZ
+Iceland Foods	
+supermarket
+31 Ashby High Street Scunthorpe ENG GB DN16 2
+Iceland Foods	
+supermarket
+1 Chapel Street Bridlington ENG GB YO15 2DR
+Iceland Foods	
+meat_wholesaler
+Unit 11 Parkway Centre Coulby Newham Cleveland GB TS8 0TJ
+Iceland Foods	
+supermarket
+2 Vernon Road Scarborough ENG GB YO11 2
+Iceland Foods	
+supermarket
+4 Victoria Road Hawick SCT GB TD9 7AH
+Iceland Foods	
+supermarket
+Unit 6B St. James Retail Park Stamfordham GB NE5 2SF
+Iceland Foods	
+food_beverage_service_distribution
+3 Berkeley Vale Falmouth ENG GB TR11 3PL
+Iceland Foods	
+supermarket
+37 The Broadway Plymouth ENG GB PL9 7AU
+Iceland Foods	
+supermarket
+11 Marlborough Street Plymouth ENG GB PL1 4
+Iceland Foods	
+meat_wholesaler
+Unit 2 Scarfes Centre Kelvin Road Omagh Northern Ireland GB BT78 1ER
+Iceland Foods	
+supermarket
+12 Bridge Street Belfast NIR GB BT1 1LU
+Iceland Foods	
+online_shop
+Unit 3 Mfi Retail Park European Way Pallion Sunderland GB SR4 6TY
+Iceland Foods	
+supermarket
+306 Holburn Street Aberdeen SCT GB AB10 7GX
+Iceland Foods	
+supermarket
+17 High Street Hailsham ENG GB BN27 1AL
+Iceland Foods	
+meat_wholesaler
+Poolside Bridge Street Caernarfon GB LL55 1NN
+Iceland Foods	
+supermarket
+1 Station Road Gillingham ENG GB SP8 4PY
+Iceland Foods	
+supermarket
+521 Christchurch Road Bournemouth ENG GB BH1 4AG
+Iceland Foods	
+restaurant
+144 Crayford Road Dartford ENG GB DA1 4ES
+Iceland Foods	
+supermarket
+358 High Street North London ENG GB E12 6PH
+Iceland Foods	
+eat_and_drink
+Unit 3 Phase 7 West Gillingham Retail Park Gillingham GB ME8 0PU
+Iceland Foods	
+supermarket
+141 High Street Gillingham ENG GB ME7 1AQ
+Iceland Foods	
+supermarket
+4 The Pavement London ENG GB SW4 0
+Iceland Foods	
+eat_and_drink
+112 Lower Marsh London ENG GB SE1 7
+Iceland Foods	
+supermarket
+10 Rectory Road Benfleet ENG GB SS7 2
+Iceland Foods	
+supermarket
+147 High Street Rayleigh ENG GB SS6 7QA
+Iceland Foods	
+meat_wholesaler
+Unit 2 135/167 Histon Road Cambridge GB CB4 3JD
+Iceland Foods	
+supermarket
+6 Court Gardens Downham Market ENG GB PE38 9
+Iceland Foods	
+supermarket
+8 Arnside Road Bristol ENG GB BS10 6
+Iceland Foods	
+~
+62/66 Edinburgh Place Cheltenham Gloucestershire GB GL51 7SA
+Iceland Foods	
+supermarket
+79 High Street Cheltenham ENG GB GL50 1DU
+Iceland Foods	
+supermarket
+90 Old Oak Common Lane London ENG GB W3 7DA
+Iceland Foods	
+shopping
+153 Burnt Oak Broadway Edgware ENG GB HA8 0
+Iceland Foods	
+supermarket
+17 Grand Parade London ENG GB N4 1LA
+Iceland Foods	
+supermarket
+Simmons Bakers 2 The Arcade Hatfield ENG GB AL10 0JY
+Iceland Foods	
+supermarket
+6 High Street Portsmouth ENG GB PO6 3
+Iceland Foods	
+supermarket
+16 Market Parade Havant ENG GB PO9 1QF
+Iceland Foods	
+supermarket
+79 Park Lane Havant ENG GB PO9 3HQ
+Iceland Foods	
+grocery_store
+Pages Corner Retail Park Ham Rd Worthing GB BN11 2QL
+Iceland Foods	
+online_shop
+Unit A 4/20 Wood Grange Road Forest Gate GB E7 0QH
+Iceland Foods	
+supermarket
+Haywards Road Haywards Heath GB RH16 4HT
+Iceland Foods	
+supermarket
+108 London Road Oxford ENG GB OX3 9AW
+Iceland Foods	
+supermarket
+Unit 10 The Longford Centre Feltham GB TW13 4BH
+Iceland Foods	
+supermarket
+30 High Street Twickenham ENG GB TW2 7
+Iceland Foods	
+supermarket
+142 High Street Ruislip ENG GB HA4 8LJ
+Iceland Foods	
+meat_wholesaler
+Unit 2 6 Branch Way Clipsley Lane Haydock GB WA11 0QW
+Iceland Foods	
+supermarket
+Tyldesley Road Atherton GB M46 9AT
+Iceland Foods	
+grocery_store
+Lowthian House Preston GB PR1 2ES
+Iceland Foods	
+online_shop
+Unit 1A Central Ret Prk Manchester Road Bolton GB BL2 1HQ
+Iceland Foods	
+online_shop
+Unit B Nrth Cty Shopp Ctr Lee Road Manchester GB M9 4DH
+Iceland Foods	
+supermarket
+Nuthall Road Nottingham GB NG8 6AD
+Iceland Foods	
+supermarket
+Crystal Peaks Shopping Centre Sheffield GB S20 7PN
+Iceland Foods	
+supermarket
+334 High Street Lincoln ENG GB LN5 7DQ
+Iceland Foods	
+supermarket
+315 Wolsey Way Lincoln ENG GB LN2 4
+Iceland Foods	
+meat_wholesaler
+8/10 Marion Square Netherton Liverpool GB L30 5QA
+Iceland Foods	
+supermarket
+62 Waterloo Road Blackpool ENG GB FY4 1AB
+Iceland Foods	
+supermarket
+95 Lord Street Fleetwood ENG GB FY7 6
+Iceland Foods	
+shopping
+22 Gaolgate Street Stafford ENG GB ST16 2
+Iceland Foods	
+supermarket
+Tape Street Cheadle GB ST10 1EU
+Iceland Foods	
+online_shop
+Unit 7 Hepworth Ret. Park Swadlincote Derbyshire GB DE11 9FQ
+Iceland Foods	
+supermarket
+6 The Moor Sheffield ENG GB S1 4
+Iceland Foods	
+~
+Unit 2 Llynfi Road Maesteg Mid Glamorgan GB CF34 9DS
+Iceland Foods	
+supermarket
+4 Phillips Road Weston-super-Mare ENG GB BS23 3
+Iceland Foods	
+supermarket
+8 Commercial Street Aberdare WLS GB CF44 7
+Iceland Foods	
+supermarket
+1 The Walk Ebbw Vale WLS GB NP23 6AY
+Iceland Foods	
+supermarket
+1 Houstoun Square Johnstone SCT GB PA5 8
+Iceland Foods	
+supermarket
+158 Main Street Glasgow SCT GB G78 1SL
+Iceland Foods	
+supermarket
+37 Castlemilk Arcade Glasgow SCT GB G45 9AA
+Iceland Foods	
+supermarket
+51 Olympia Street Glasgow SCT GB G40 3TA
+Iceland Foods	
+supermarket
+14A Shandwick Street Glasgow SCT GB G34 9
+Iceland Foods	
+supermarket
+Unit 2 Bromhill Drive Larkhall GB ML9 1RH
+Iceland Foods	
+supermarket
+86 West Main Street Bathgate SCT GB EH47 0QU
+Iceland Foods	
+supermarket
+Whitburn Road Bathgate GB EH48 2RA
+Iceland Foods	
+supermarket
+598 Lanark Road Juniper Green SCT GB EH14 5EN
+Iceland Foods	
+health_food_store
+39 Market Street Halifax ENG GB HX1 1
+Iceland Foods	
+supermarket
+8a Station Road Leeds ENG GB LS15 7
+Iceland Foods	
+online_shop
+936 Scotts Arms Centre Walsall Road Birmingham GB B42 1TQ
+Iceland Foods	
+supermarket
+79 Church Street Bilston ENG GB WV14 0
+Iceland Foods	
+supermarket
+2 Queens Road Nuneaton ENG GB CV11 5JW
+Iceland Foods	
+health_food_store
+15 Newbottle Street Houghton le Spring ENG GB DH4 4AP
+Iceland Foods	
+supermarket
+Century 21 27 Waterdale Doncaster ENG GB DN1 3
+Iceland Foods	
+online_shop
+Flying Horse Yard Salter Row Pontefract GB WF8 4PQ
+Iceland Foods	
+shopping
+Unit Lru2 Carlton Lanes Castleford GB WF10 1AD
+Iceland Foods	
+supermarket
+Unit 1A Skippingdale Retail Park Scunthorpe GB DN15 8NN
+Iceland Foods	
+appliance_store
+5/9 Town Square Billingham Bristol GB TS23 2NB
+Iceland Foods	
+online_shop
+Whale Shopping Centre Middlesbrough GB TS6 8BL
+Iceland Foods	
+supermarket
+The Benwell Shopping Centre Newcastle upon Tyne GB NE4 8BE
+Iceland Foods	
+eat_and_drink
+Shirt Centre Bangor 10 High Street Bangor NIR GB BT20 5AY
+Iceland Foods	
+appliance_store
+Unit 17 St Cuthberts Walk Chester Le Street County Durham GB DH3 3YQ
+Iceland Foods	
+korean_grocery_store
+Units 11/12 Park View Shopping Centre Whitley Bay GB NE26 2TJ
+Iceland Foods	
+supermarket
+1 Rose Street Inverness SCT GB IV1 1
+Iceland Foods	
+online_shop
+Unit 3 Boulevard Ret Park Links Road Aberdeen GB AB11 5EJ
+Iceland Foods	
+health_food_store
+Units B & C Ystwyth Retail Park Ceredigion Aberystwyth GB SY23 1PB
+Iceland Foods	
+supermarket
+Unit 1 Station Road Barmouth GB LL42 1LU
+Iceland Foods	
+shopping
+26 Market Street Newtown WLS GB SY16 2PD
+Iceland Foods	
+supermarket
+10 Oswald Road Oswestry ENG GB SY11 1RE
+Iceland Foods	
+supermarket
+55 Frodsham Street Chester ENG GB CH1 3
+Iceland Foods	
+meat_wholesaler
+Unit 1 Wavertree Ret Park Wavertree Road Liverpool GB L7 5LZ
+Iceland Foods	
+korean_grocery_store
+Unt 5 Halewood Shpping Ct Leathers Lane Liverpool GB L26 0AD
+Iceland Foods	
+supermarket
+26 Wharf Road South Grays ENG GB RM17 6
+Iceland Foods	
+supermarket
+34 East Street Barking ENG GB IG11 8EP
+Iceland Foods	
+supermarket
+60 High Road Ilford ENG GB IG1 1DL
+Iceland Foods	
+supermarket
+10 Farnham Road Romford ENG GB RM3 8DX
+Iceland Foods	
+supermarket
+120 Camberwell Road London ENG GB SE5 0EE
+Iceland Foods	
+supermarket
+1269 Greenford Road Greenford ENG GB UB6 0HY
+Iceland Foods	
+supermarket
+15 Market Square Basildon ENG GB SS14 1
+Iceland Foods	
+supermarket
+984 London Road Leigh-on-Sea ENG GB SS9 3NF
+Iceland Foods	
+supermarket
+34 High Street Whitstable ENG GB CT5 1
+Iceland Foods	
+supermarket
+26 St John's Street Colchester ENG GB CO2 7
+Iceland Foods	
+supermarket
+27 High Street Broadstairs ENG GB CT10 1LP
+Iceland Foods	
+supermarket
+1 Crown Walk Newmarket ENG GB CB8 8NG
+Iceland Foods	
+supermarket
+34 The Oxebode Gloucester ENG GB GL1 1
+Iceland Foods	
+supermarket
+24 The Brittox Devizes ENG GB SN10 1AJ
+Iceland Foods	
+supermarket
+10 Phelps Parade Calne ENG GB SN11 0HA
+Iceland Foods	
+supermarket
+12 Belgrave Gate Leicester ENG GB LE1 3GP
+Iceland Foods	
+meat_wholesaler
+Unit 42 Beaumont Centre Beaumont Leys Leicester GB LE4 1DF
+Iceland Foods	
+health_food_store
+48 High Street Rushden ENG GB NN10 0
+Iceland Foods	
+supermarket
+Unit 20 Cheese Lane Swansgate Wellingborough GB NN8 1EX
+Iceland Foods	
+supermarket
+10 Station Road Biggleswade ENG GB SG18 8AL
+Iceland Foods	
+supermarket
+59 Corporation Street Corby ENG GB NN17 1NQ
+Iceland Foods	
+meat_wholesaler
+The Bretton Centre Peterborough Cambridgeshire GB PE3 8DF
+Iceland Foods	
+supermarket
+252 Southchurch Drive Nottingham ENG GB NG11 8AA
+Iceland Foods	
+korean_grocery_store
+Unit 1B Waterside Ret Prk Station Road Derbyshire GB DE7 5LF
+Iceland Foods	
+supermarket
+100 Kilburn High Road London ENG GB NW6 4
+Iceland Foods	
+supermarket
+574 North Circular Road London ENG GB NW2 7PY
+Iceland Foods	
+supermarket
+352 High Road Harrow ENG GB HA3 6HF
+Iceland Foods	
+supermarket
+137 Shenley Road Borehamwood ENG GB WD6 1
+Iceland Foods	
+supermarket
+62 Chapel Market London ENG GB N1 9ER
+Iceland Foods	
+supermarket
+46 Junction Road London ENG GB N19 5
+Iceland Foods	
+eat_and_drink
+Unit 12. Dalston Cross Shopping Centre London GB E8 2LX
+Iceland Foods	
+supermarket
+612 Lea Bridge Road London ENG GB E10 7
+Iceland Foods	
+supermarket
+Mayes Road Wood Green GB N22 6TN
+Iceland Foods	
+supermarket
+1b Old Church Road London ENG GB E4 6SJ
+Iceland Foods	
+supermarket
+66 High Street North Dunstable ENG GB LU6 1LE
+Iceland Foods	
+supermarket
+Wigmore Park Centre Luton GB LU2 9XG
+Iceland Foods	
+supermarket
+Brocket Road Hoddesdon GB EN11 8PE
+Iceland Foods	
+meat_wholesaler
+South Water Square Telford Shropshire GB TF3 4JG
+Iceland Foods	
+supermarket
+Unit 7 Bitterne Village Southampton GB SO18 5EF
+Iceland Foods	
+supermarket
+10/13 Chelsea House Basingstoke GB RG21 7JR
+Iceland Foods	
+supermarket
+153 Victoria Road Aldershot ENG GB GU11 1JR
+Iceland Foods	
+appliance_store
+1/3 Pavilion Parade South Street Worthing Sussex GB BN11 3AJ
+Iceland Foods	
+supermarket
+3 Chalfont Way Reading ENG GB RG6 5HJ
+Iceland Foods	
+supermarket
+9 High Street High Wycombe ENG GB HP11 2AZ
+Iceland Foods	
+fruits_and_vegetables
+25 Station Road Hayes ENG GB UB3 4BD
+Iceland Foods	
+supermarket
+44 Hough Lane Leyland ENG GB PR25 2SA
+Iceland Foods	
+meat_wholesaler
+Old Church Street Newton Heath Manchester GB M40 2JF
+Iceland Foods	
+supermarket
+26 Tudor Square Nottingham ENG GB NG2 6BT
+Iceland Foods	
+supermarket
+303 Carlton Hill Nottingham ENG GB NG4 1GP
+Iceland Foods	
+supermarket
+34 South Gate Sleaford ENG GB NG34 7
+Iceland Foods	
+supermarket
+15A Sheep Market Spalding ENG GB PE11 1
+Iceland Foods	
+supermarket
+7 Hollow Park Ayr SCT GB KA7 4TH
+Iceland Foods	
+supermarket
+19 Charles Street Stoke-on-Trent ENG GB ST1 3JP
+Iceland Foods	
+supermarket
+2 The Avenue Chester ENG GB CH3 7LE
+Iceland Foods	
+supermarket
+Granville Street Runcorn GB WA7 1NE
+Iceland Foods	
+meat_wholesaler
+Unit 34 The Octagon Ctr Burton On Trent Staffordshire GB DE14 3TN
+Iceland Foods	
+supermarket
+88 Spring Gardens Buxton ENG GB SK17 6BZ
+Iceland Foods	
+shopping
+7 Lordsmill Street Chesterfield ENG GB S41 7
+Iceland Foods	
+supermarket
+Alphington Road Exeter GB EX2 8HR
+Iceland Foods	
+supermarket
+1 Monmouth Walk Cwmbran WLS GB NP44 1
+Iceland Foods	
+supermarket
+Crown Buildings Pontypool GB NP4 6LR
+Iceland Foods	
+convenience_store
+8 Frogmore Street Abergavenny WLS GB NP7 5
+Iceland Foods	
+supermarket
+13 Greenhills Crescent Glasgow SCT GB G75 8
+Iceland Foods	
+supermarket
+60 Main Street Wishaw SCT GB ML2 7AB
+Iceland Foods	
+~
+Travis Street Hyde Cheshire GB SK14 1PA
+Iceland Foods	
+supermarket
+2 Botolph Street Norwich ENG GB NR3 1DT
+Iceland Foods	
+supermarket
+The Trafford Park Industrial Estate Redditch GB B98 7AH
+Iceland Foods	
+supermarket
+56 Bath Street Leamington Spa ENG GB CV31 3AE
+Iceland Foods	
+supermarket
+2 Warwick Road Kenilworth ENG GB CV8 1HB
+Iceland Foods	
+food
+52 The Fox Goose Centre Birmingham GB B8 2EP
+Iceland Foods	
+supermarket
+5 Mill Street Bedworth ENG GB CV12 8JX
+Iceland Foods	
+supermarket
+255 Yarm Road Darlington ENG GB DL1 1BA
+Iceland Foods	
+online_shop
+Unit 6 North Road / Albert Road Darlington GB DL1 2PF
+Iceland Foods	
+supermarket
+Oxford Road Spennymoor GB DL16 6YQ
+Iceland Foods	
+supermarket
+19 High Street Doncaster ENG GB DN6 8DN
+Iceland Foods	
+online_shop
+Unit 4 Sterling Road Clifton Moor Centre York GB YO30 4WZ
+Iceland Foods	
+supermarket
+36a The Precinct Blaydon on Tyne ENG GB NE21 5
+Iceland Foods	
+supermarket
+2 Market Place Penzance ENG GB TR18 2
+Iceland Foods	
+supermarket
+34 Trelowarren Street Camborne ENG GB TR14 8AF
+Iceland Foods	
+supermarket
+High Street Ballynahinch GB BT24 8AB
+Iceland Foods	
+supermarket
+22b Buncrana Road Londonderry NIR GB BT48 8AB
+Iceland Foods	
+supermarket
+The Forum Shopping Centre Wallsend GB NE28 8JP
+Iceland Foods	
+supermarket
+Chichester Road South Shields GB NE33 4HF
+Iceland Foods	
+supermarket
+Ryhope Street Sunderland GB SR2 0RS
+Iceland Foods	
+supermarket
+Wellgate Shopping Centre Dundee GB DD1 2DB
+Iceland Foods	
+supermarket
+7 Souterford Road Inverurie SCT GB AB51 0TP
+Iceland Foods	
+supermarket
+84 High Street Rhyl WLS GB LL18 1
+Iceland Foods	
+supermarket
+24 Liscard Way Wallasey ENG GB CH44 5TP
+Iceland Foods	
+supermarket
+162 Walton Road Liverpool ENG GB L4 4AZ
+Iceland Foods	
+supermarket
+68 Derby Road Liverpool ENG GB L36 9UL
+Iceland Foods	
+supermarket
+16 Market Place Frome ENG GB BA11 1AN
+Iceland Foods	
+supermarket
+Unit 3 The Botany Tonbridge GB TN9 1SA
+Iceland Foods	
+supermarket
+64 High Street Ashford ENG GB TN24 8TB
+Iceland Foods	
+supermarket
+114 Broadway Bexleyheath ENG GB DA6 7
+Iceland Foods	
+supermarket
+258 Heathway Dagenham ENG GB RM10 8QS
+Iceland Foods	
+supermarket
+Unit 2 Grove Farm Retail Park Romford GB RM6 4AU
+Iceland Foods	
+meat_wholesaler
+Units 2/3 High Street Barkingside Essex GB IG6 2AW
+Iceland Foods	
+supermarket
+22 The Broadway Loughton ENG GB IG10 3ST
+Iceland Foods	
+supermarket
+277 New Cross Road London ENG GB SE14 6AS
+Iceland Foods	
+supermarket
+101 High Street Billericay ENG GB CM12 9AJ
+Iceland Foods	
+supermarket
+The Newlands Precinct Witham GB CM8 2AP
+Iceland Foods	
+online_shop
+Unitr2 Neats Court Ret Pk Queenborough Isle Of Sheppey GB ME11 5JS
+Iceland Foods	
+supermarket
+Unit 2B Waterglade Park Clacton-on-Sea GB CO15 1HX
+Iceland Foods	
+meat_wholesaler
+14/15 Triangle Shop Ctr Rochford Way Frinton GB CO13 0AU
+Iceland Foods	
+supermarket
+252 High Street Harwich ENG GB CO12 3PA
+Iceland Foods	
+supermarket
+9 Nelson Place Dereham ENG GB NR19 1
+Iceland Foods	
+supermarket
+29 Southampton Road Ringwood ENG GB BH24 1HB
+Iceland Foods	
+supermarket
+1 Broadwalk Shopping Centre Bristol ENG GB BS4 2QU
+Iceland Foods	
+meat_wholesaler
+Units 3/5 Fountain Court Bristol GB BS16 5LR
+Iceland Foods	
+supermarket
+Unit 2 Willowbrook Shopping Centre Bradley Stoke Bristol GB BS32 8BS
+Iceland Foods	
+food_beverage_service_distribution
+45 High Street Ryde ENG GB PO33 2RE
+Iceland Foods	
+supermarket
+2 Rugby Road Hinckley ENG GB LE10 0
+Iceland Foods	
+supermarket
+27 Newland Street Kettering ENG GB NN16 8JH
+Iceland Foods	
+supermarket
+15 Greenhill Street Bedford ENG GB MK40 1LX
+Iceland Foods	
+supermarket
+95 Church Lane Bedford ENG GB MK41 0
+Iceland Foods	
+supermarket
+24 Market Square St Neots ENG GB PE19 2AJ
+Iceland Foods	
+supermarket
+7 Dukes Drive Huntingdon ENG GB PE26 2
+Iceland Foods	
+supermarket
+91 Derby Road Nottingham ENG GB NG9 7
+Iceland Foods	
+supermarket
+55 Nottingham Road Nottingham ENG GB NG16 3AL
+Iceland Foods	
+supermarket
+154 Cricklewood Broadway London ENG GB NW2 3
+Iceland Foods	
+supermarket
+522 High Road London ENG GB N17 9
+Iceland Foods	
+online_shop
+4 Palace Exchange Cecil Road Enfield GB EN2 6TR
+Iceland Foods	
+supermarket
+171 Marsh Road Luton ENG GB LU3 2QG
+Iceland Foods	
+supermarket
+Bridge Street Kidderminster GB DY10 1BN
+Iceland Foods	
+supermarket
+Unit A Brock Lane Mall Maidenhead GB SL6 1LL
+Iceland Foods	
+eat_and_drink
+15 Botley Road Oxford ENG GB OX2 0AA
+Iceland Foods	
+meat_wholesaler
+Unit 10 The Longford Centre Feltham GB TW13 4BH
+Iceland Foods	
+supermarket
+274 Northolt Road Harrow ENG GB HA2 8EB
+Iceland Foods	
+supermarket
+58 High Street Rickmansworth ENG GB WD3 1AJ
+Iceland Foods	
+meat_wholesaler
+Halbeath Road Dunfermline Fife GB KY12 7QY
+Iceland Foods	
+supermarket
+4 Minto Crescent Glenrothes SCT GB KY6 1LP
+Iceland Foods	
+supermarket
+The Olive Bank Retail Park Musselburgh GB EH21 6RE
+Iceland Foods	
+korean_grocery_store
+37/43 Ormskirk Street St Helens Merseyside GB WA10 2SY
+Iceland Foods	
+supermarket
+116 Bradshawgate Leigh ENG GB WN7 4
+Iceland Foods	
+supermarket
+Unit 1A Central Retail Park Bolton GB BL2 1HQ
+Iceland Foods	
+supermarket
+1 Chorlton Place Manchester ENG GB M21 9
+Iceland Foods	
+supermarket
+Ralph Street Clayton GB M11 4YX
+Iceland Foods	
+supermarket
+Bridge Street Heywood GB OL10 1JF
+Iceland Foods	
+online_shop
+Unit 1 Amber Centre Portland Road Hucknall GB NG15 7UQ
+Iceland Foods	
+supermarket
+77 Front Street Nottingham ENG GB NG5 7EB
+Iceland Foods	
+supermarket
+28 Chapel Lane Liverpool ENG GB L37 4DU
+Iceland Foods	
+supermarket
+10 Marina Crescent Bootle ENG GB L30 1RR
+Iceland Foods	
+supermarket
+Stonedale Park East Lancashire Road Liverpool GB L11 9DH
+Iceland Foods	
+supermarket
+Vicarage Lane 23 Penrose Avenue Blackpool ENG GB FY4 4DH
+Iceland Foods	
+supermarket
+Unit 9 Alexandria Retail Park Stoke-on-Trent GB ST6 6BE
+Iceland Foods	
+online_shop
+Unit 2 London Road Stoke On Trent GB ST4 7SG
+Iceland Foods	
+food_beverage_service_distribution
+258 Stockport Road Altrincham ENG GB WA15 7UT
+Iceland Foods	
+~
+1295/1305 London Road Alvaston Derbyshire GB DE24 8QN
+Iceland Foods	
+supermarket
+492 Nottingham Road Derby ENG GB DE21 6
+Iceland Foods	
+supermarket
+Lace Walk Honiton GB EX14 1LR
+Iceland Foods	
+supermarket
+9/10 Angel Place Shopping Centre Bridgwater GB TA6 3TQ
+Iceland Foods	
+appliance_store
+Shop 1A St Davids Square Swansea Gillingham GB SA1 3LG
+Iceland Foods	
+supermarket
+15 Brackla Street Bridgend WLS GB CF31 3
+Iceland Foods	
+supermarket
+194b Cowbridge Road East Cardiff WLS GB CF5 1GW
+Iceland Foods	
+supermarket
+50 Taff Street Pontypridd WLS GB CF37 4TD
+Iceland Foods	
+supermarket
+12 Cardiff Road Caerphilly WLS GB CF83 1
+Iceland Foods	
+supermarket
+Unit 12 The Market Place Islwyn Centre Blackwood GB NP12 1AU
+Iceland Foods	
+supermarket
+31 High Street Abertillery WLS GB NP13 1
+Iceland Foods	
+supermarket
+32 West Burn Street Greenock SCT GB PA15 1
+Iceland Foods	
+supermarket
+Strathkelvin Retail Park Bishopbriggs GB G64 2TS
+Iceland Foods	
+shopping
+Weaver Thorpe Retail Park Tong GB BD4 9RQ
+Iceland Foods	
+supermarket
+Batley Shopping Centre Batley GB WF17 5DR
+Iceland Foods	
+meat_wholesaler
+Unit 2 Woodhall Retail Pk Woodhall Road Bradford GB BD3 7BW
+Iceland Foods	
+supermarket
+20 Wulfrun Centre Wolverhampton ENG GB WV1 3
+Iceland Foods	
+supermarket
+32 Church Road Dudley ENG GB DY2 0
+Iceland Foods	
+shopping
+548 Bearwood Road Smethwick ENG GB B66 4BT
+Iceland Foods	
+online_shop
+Unit 5 St Andrews Shp Prk 270 Coventry Road Birmingham GB B10 0XA
+Iceland Foods	
+supermarket
+17 Maney Corner Sutton Coldfield ENG GB B72 1
+Iceland Foods	
+supermarket
+Unit 5A Linkway Retail Park Cannock GB WS11 1TD
+Iceland Foods	
+supermarket
+45 The Square Aldridge GB WS9 8QS
+Iceland Foods	
+supermarket
+19 Market Street Lichfield ENG GB WS13 6JX
+Iceland Foods	
+eat_and_drink
+Chelmsley Wood Shopping Centre 33 Maple Walk Birmingham ENG GB B37 5TS
+Iceland Foods	
+supermarket
+41 Cheshire Street Market Drayton ENG GB TF9 1PH
+Iceland Foods	
+supermarket
+5 North Road Durham ENG GB DH1 4SH
+Iceland Foods	
+supermarket
+210/214 Soho Road Hemsworth GB WF9 4JX
+Iceland Foods	
+online_shop
+18/22 Queensgate Waterdale Centre Doncaster GB DN1 3JN
+Iceland Foods	
+meat_wholesaler
+33/35 Southgate Scunthorpe South Humberside GB DN15 6SU
+Iceland Foods	
+supermarket
+630 Anlaby Road Hull ENG GB HU3 6UU
+Iceland Foods	
+supermarket
+6 Knighton Court Stockton-on-Tees ENG GB TS17 9QQ
+Iceland Foods	
+meat_wholesaler
+174 Middleton Grange Ctr Hartlepool Prestatyn GB TS24 7RY
+Iceland Foods	
+meat_wholesaler
+Meadow Lane Portadown Northern Ireland GB BT62 3NH
+Iceland Foods	
+supermarket
+Unit 4 Orritor Retail Park Cookstown GB BT80 8BH
+Iceland Foods	
+meat_wholesaler
+70/78 Newry Street Banbridge Northern Ireland GB BT32 3HA
+Iceland Foods	
+supermarket
+12 Market Square Antrim NIR GB BT41 4AW
+Iceland Foods	
+meat_wholesaler
+Shankill Road Belfast Northern Ireland GB BT13 2BE
+Iceland Foods	
+shopping
+Newtownards Road Belfast GB BT4 1HD
+Iceland Foods	
+supermarket
+Rathcoole Library 2-4 Rosslea Way Newtownabbey NIR GB BT37 9
+Iceland Foods	
+supermarket
+21a Railway Road Coleraine NIR GB BT52 1
+Iceland Foods	
+supermarket
+253 Stanhope Street Newcastle upon Tyne ENG GB NE4 5JT
+Iceland Foods	
+supermarket
+Campfield Square Dundee GB DD5 2PU
+Iceland Foods	
+supermarket
+1 Broad Street Fraserburgh SCT GB AB43 9AE
+Iceland Foods	
+supermarket
+Kwik Save Precinct Dodds Lane Gwersyllt Wrexham GB LL11 4NT
+Iceland Foods	
+supermarket
+303 Hoylake Road Wirral ENG GB CH46 6
+Iceland Foods	
+supermarket
+58 New Chester Road Wirral ENG GB CH62 1
+Iceland Foods	
+supermarket
+605 West Derby Road Liverpool ENG GB L13 8AE
+Iceland Foods	
+supermarket
+362 Ashley Road Poole ENG GB BH14 9DQ
+Iceland Foods	
+restaurant
+51 Victoria Road Ferndown ENG GB BH22 9HU
+Iceland Foods	
+supermarket
+D5/D7 Water Lane Chequers Cente Maidstone GB ME15 6AR
+Iceland Foods	
+supermarket
+47 High Street Dartford ENG GB DA1 1DJ
+Iceland Foods	
+food_beverage_service_distribution
+4 Woodgrange Road London ENG GB E7 0
+Iceland Foods	
+supermarket
+North Street Hornchurch GB RM11 1RL
+Iceland Foods	
+supermarket
+1 Overcliffe Gravesend ENG GB DA11 0EF
+Iceland Foods	
+restaurant
+London Road Aber Conway Road Morden GB SM4 5LN
+Iceland Foods	
+supermarket
+34 Central Parade Croydon ENG GB CR0 0JD
+Iceland Foods	
+supermarket
+194 Streatham High Road London ENG GB SW16 1BB
+Iceland Foods	
+supermarket
+19 Westow Hill London ENG GB SE19 1
+Iceland Foods	
+supermarket
+24 Rye Lane London ENG GB SE15 5BS
+Iceland Foods	
+supermarket
+2 Harvey Centre Approach Harlow ENG GB CM20 1HF
+Iceland Foods	
+supermarket
+1 Greyhound Way Southend-on-Sea ENG GB SS2 5
+Iceland Foods	
+supermarket
+155 Mortimer Street Herne Bay ENG GB CT6 5HA
+Iceland Foods	
+supermarket
+4 Minstergate Thetford ENG GB IP24 1
+Iceland Foods	
+supermarket
+37 Bridge Street Andover ENG GB SP10 1BE
+Iceland Foods	
+meat_wholesaler
+Unit 1/3 Peterson Avenue Bristol GB BS13 0BE
+Iceland Foods	
+grocery_store
+76 High Street Daventry ENG GB NN11 4
+Iceland Foods	
+health_food_store
+21 Market Street Loughborough ENG GB LE11 3EP
+Iceland Foods	
+supermarket
+Nottingham Road Alfreton GB DE55 4JJ
+Iceland Foods	
+supermarket
+75 Camden High Street London ENG GB NW1 0
+Iceland Foods	
+eat_and_drink
+51 Fretherne Road Welwyn Garden City ENG GB AL8 6NS
+Iceland Foods	
+health_food_store
+15 Central Approach Letchworth ENG GB SG6 3
+Iceland Foods	
+supermarket
+24 Church Street Great Malvern ENG GB WR14 2AY
+Iceland Foods	
+supermarket
+3 Market Street Stourbridge ENG GB DY8 1AB
+Iceland Foods	
+grocery_store
+37 Market Street Kingswinford ENG GB DY6 9
+Iceland Foods	
+supermarket
+30 Dudley Street Dudley ENG GB DY3 1SB
+Iceland Foods	
+supermarket
+Unit 1 Locks Heath Centre Southampton GB SO31 6DX
+Iceland Foods	
+~
+119/125 Mary Gate Northumberland GB TD15 1BH
+Iceland Foods	
+supermarket
+34 West Street Fareham ENG GB PO16 9UZ
+Iceland Foods	
+supermarket
+6 Middle Brook Street Winchester ENG GB SO23 8BQ
+Iceland Foods	
+retail
+39/45 The Martletts Burgess Hill West Sussex GB RH15 9NN
+Iceland Foods	
+supermarket
+216 High Street Slough ENG GB SL1 1
+Iceland Foods	
+supermarket
+92 High Street West Drayton ENG GB UB7 7FB
+Iceland Foods	
+supermarket
+School Street Darwen GB BB3 1BE
+Iceland Foods	
+supermarket
+107-111 Mather Way Salford ENG GB M6 5
+Iceland Foods	
+online_shop
+Unit 2/3 Armitage Avenue Greater Manchester GB M38 0EA
+Iceland Foods	
+online_shop
+Unit 6 Brackley Street Farnworth South Lanarkshire GB BL4 9DR
+Iceland Foods	
+supermarket
+Tennis Street Old Trafford Manchester GB M16 0LH
+Iceland Foods	
+online_shop
+1/3 Greenside Shopng Cntr Greenside Lane Droylsden GB M43 7YY
+Iceland Foods	
+supermarket
+77 Strand Road Bootle ENG GB L20 4
+Iceland Foods	
+supermarket
+Hindpool Road Barrow in Furness GB LA14 2NE
+Iceland Foods	
+grocery_store
+74 Victoria Road West Thornton Cleveleys ENG GB FY5 1AG
+Iceland Foods	
+supermarket
+11 Buttermarket Street Warrington ENG GB WA1 2
+Iceland Foods	
+supermarket
+Units N&O West Heath Shopping Centre Congleton GB CW12 4NB
+Iceland Foods	
+supermarket
+19 North Street Derby ENG GB DE23 6BJ
+Iceland Foods	
+supermarket
+2 King Street Belper ENG GB DE56 1PS
+Iceland Foods	
+supermarket
+803 Chesterfield Road Sheffield ENG GB S8 0SQ
+Iceland Foods	
+supermarket
+6 Picton Place Haverfordwest WLS GB SA61 2LX
+Iceland Foods	
+supermarket
+The Avenue Minehead GB TA24 5AZ
+Iceland Foods	
+online_shop
+Unit 3 Phoenix Retail Park Swansea GB SA7 9EG
+Iceland Foods	
+supermarket
+12 Quay Street Ammanford WLS GB SA18 3DB
+Iceland Foods	
+shopping
+Unit 4B Midway Retail Park Pontypridd GB CF37 5BL
+Iceland Foods	
+supermarket
+161 Commercial Street Newport WLS GB NP20 1JQ
+Iceland Foods	
+supermarket
+Unit 2B Triangle Business Park Pentrebach GB CF48 2TQ
+Iceland Foods	
+supermarket
+224 Byres Road Glasgow SCT GB G12 8SH
+Iceland Foods	
+supermarket
+447 Alexandra Parade Glasgow SCT GB G31 3AD
+Iceland Foods	
+meat_wholesaler
+12/16 Princes Mall East Kilbride Shop Centre Glasgow GB G74 1JU
+Iceland Foods	
+shopping
+2347 London Road Glasgow SCT GB G32 8YS
+Iceland Foods	
+supermarket
+1 Cruikshank's Court Denny SCT GB FK6 5
+Iceland Foods	
+supermarket
+33 Bow Street Ashton-under-Lyne ENG GB OL6 6BU
+Iceland Foods	
+health_food_store
+Unit 1 Treadmills Retail Park Crosby Road Northallerton GB DL6 1NW
+Iceland Foods	
+supermarket
+90 South Quay Great Yarmouth ENG GB NR30 2RW
+Iceland Foods	
+supermarket
+727 Bristol Road South Birmingham ENG GB B31 2NG
+Iceland Foods	
+korean_grocery_store
+32 Churchill Shopping Cnt Dudley West Midlands GB DY2 7BJ
+Iceland Foods	
+online_shop
+179 High Street Blackheath Birmingham GB B65 0DU
+Iceland Foods	
+supermarket
+194 High Street Birmingham ENG GB B23 6SJ
+Iceland Foods	
+online_shop
+Market Place Bloxwich GB WS3 2JH
+Iceland Foods	
+meat_wholesaler
+3B Market Place Cannock Staffordshire GB WS11 1BS
+Iceland Foods	
+supermarket
+Unit 4 Thorne Retail Park Doncaster GB DN2 5DX
+Iceland Foods	
+supermarket
+42 Boothferry Road Goole ENG GB DN14 5DA
+Iceland Foods	
+supermarket
+248 Linthorpe Road Middlesbrough ENG GB TS1 4
+Iceland Foods	
+supermarket
+Unit 3A Teesbay Retail Park Hartlepool GB TS25 1XJ
+Iceland Foods	
+supermarket
+Scott Street Stanley GB DH9 8AD
+Iceland Foods	
+supermarket
+5 Albert Court Torquay ENG GB TQ1 3AE
+Iceland Foods	
+meat_wholesaler
+Unit 4 Orritor Retail Park Cookstown GB BT80 8BH
+Iceland Foods	
+meat_wholesaler
+Farmley Shopping Centre Glengormley Northern Ireland GB BT36 7TS
+Iceland Foods	
+shopping
+32-34 Bondgate Within Alnwick ENG GB NE66 1
+Iceland Foods	
+supermarket
+66 The Bridges Sunderland ENG GB SR1 3
+Iceland Foods	
+supermarket
+25 Marischal Street Peterhead SCT GB AB42 1
+Iceland Foods	
+supermarket
+Cyftir Lane Erw Crossroads Holyhead GB LL65 2PU
+Iceland Foods	
+meat_wholesaler
+Unit 22 Central Precinct Brunswick Road Buckley GB CH7 2EF
+Iceland Foods	
+meat_wholesaler
+Unit 3 Horseshoes Mall Warminster Wiltshire GB BA12 9BT
+Iceland Foods	
+supermarket
+89 Poole Road Bournemouth ENG GB BH4 9BB
+Iceland Foods	
+supermarket
+55 High Street Dover Kent GB CT16 1EB
+Iceland Foods	
+supermarket
+Unit 25A Swanley Shopping Centre Swanley GB BR8 7TG
+Iceland Foods	
+supermarket
+132 Eltham High Street London ENG GB SE9 1
+Iceland Foods	
+supermarket
+20 Town Square Erith ENG GB DA8 1
+Iceland Foods	
+supermarket
+146 Barking Road London ENG GB E16 4
+Iceland Foods	
+online_shop
+128/130 High Street North East Ham London GB E6 2HT
+Iceland Foods	
+supermarket
+783 High Road Leytonstone London ENG GB E11 4
+Iceland Foods	
+supermarket
+141 Central Road Worcester Park ENG GB KT4 8DT
+Iceland Foods	
+supermarket
+52 Brigstock Road Thornton Heath ENG GB CR7 7
+Iceland Foods	
+supermarket
+114 Deptford High Street London ENG GB SE8 4
+Iceland Foods	
+supermarket
+64a Broadway London ENG GB W13 9
+Iceland Foods	
+supermarket
+41 St John's Way Stanford le Hope ENG GB SS17 7NA
+Iceland Foods	
+supermarket
+30 High Street Wickford ENG GB SS12 9AZ
+Iceland Foods	
+supermarket
+5-6 The Centre Colchester ENG GB CO5 0
+Iceland Foods	
+korean_grocery_store
+55/57 High Street March Cambridgeshire GB PE15 9JJ
+Iceland Foods	
+supermarket
+14 Temple Street Bristol ENG GB BS31 1EG
+Iceland Foods	
+home_goods_store
+79 Place Road Cowes ENG GB PO31 7AE
+Iceland Foods	
+supermarket
+Unit 5 Parkway Central Retail Park Sheffield GB S2 5AU
+Iceland Foods	
+supermarket
+2 Flora Street Sheffield ENG GB S6 2
+Iceland Foods	
+korean_grocery_store
+3/4 Northway Rugby Warwickshire GB CV21 2JS
+Iceland Foods	
+supermarket
+197 Narborough Road Leicester ENG GB LE3 0PE
+Iceland Foods	
+supermarket
+113 High Street Huntingdon ENG GB PE29 3LD
+Iceland Foods	
+restaurant
+43 The Broadway London ENG GB NW7 3DA
+Iceland Foods	
+supermarket
+11 Watney Market London ENG GB E1 2
+Iceland Foods	
+supermarket
+3 Letchworth Road Baldock ENG GB SG7 6AA
+Iceland Foods	
+meat_wholesaler
+15 The Bridge Centre Fratton Portsmouth GB PO1 1SL
+Iceland Foods	
+appliance_store
+Unit 11 Portswood Road Southampton Hampshire GB SO17 2NH
+Iceland Foods	
+supermarket
+12 Stubbington Green Fareham ENG GB PO14 2JG
+Iceland Foods	
+supermarket
+55 South Street Chichester ENG GB PO19 1DS
+Iceland Foods	
+supermarket
+19 Surrey Street Littlehampton ENG GB BN17 5AZ
+Iceland Foods	
+supermarket
+5 Wallace Parade Worthing ENG GB BN12 4
+Iceland Foods	
+supermarket
+54 Blatchington Road Hove ENG GB BN3 3YH
+Iceland Foods	
+supermarket
+3/5 Market Place Didcot GB OX11 7LE
+Iceland Foods	
+~
+Weldale Street Wickes Centre Reading GB RG1 7BZ
+Iceland Foods	
+supermarket
+39 Church Street Reading ENG GB RG4 8
+Iceland Foods	
+retail
+40/42 Pierfield Terrace Portobello Road Edinburgh GB EH8 7BJ
+Iceland Foods	
+korean_grocery_store
+Unit B St Helens Ret Park Warrington Old Road St Helens GB WA9 1JJ
+Iceland Foods	
+supermarket
+Templeton Road Wigan GB WN2 5PD
+Iceland Foods	
+supermarket
+Bolton Rd/Livesey Rd Ewood Mill Blackburn GB BB2 4LQ
+Iceland Foods	
+meat_wholesaler
+Unit 57 The Arndale Ctr Middleton Manchester GB M24 4EL
+Iceland Foods	
+supermarket
+Unit 28 Arndale Centre Accrington Lancashire GB BB5 1EX
+Iceland Foods	
+supermarket
+Unit 22 St Nicholas Avenue Perpignan Way Lancaster GB LA1 1NE
+Iceland Foods	
+supermarket
+110 Northway Liverpool ENG GB L31 5NF
+Iceland Foods	
+supermarket
+Springfields Retail Park Stoke-on-Trent GB ST4 6PD
+Iceland Foods	
+supermarket
+27 Market Street Rugeley ENG GB WS15 2
+Iceland Foods	
+supermarket
+27 Albion Street Derby ENG GB DE1 2
+Iceland Foods	
+supermarket
+1 Firs Parade Matlock ENG GB DE4 3
+Iceland Foods	
+supermarket
+Unit 2 Parc Cwmdu Carmarthen Road Swansea GB SA5 8LJ
+Iceland Foods	
+supermarket
+143 Holton Road Barry WLS GB CF63 4HP
+Iceland Foods	
+supermarket
+205 High Street Treorchy WLS GB CF42 6
+Iceland Foods	
+supermarket
+Newport Retail Park Newport GB NP19 4QQ
+Iceland Foods	
+eat_and_drink
+15 Graham Way Merthyr Tydfil GB CF47 8EG
+Iceland Foods	
+supermarket
+The Braes Saltcoats GB KA21 5EP
+Iceland Foods	
+home_goods_store
+Queens Drive Retail Park Kilmarnock GB KA1 3XB
+Iceland Foods	
+online_shop
+21 Dunkenny Square Drumchapel Glasgow GB G15 8NB
+Iceland Foods	
+~
+22 Douglas Street Milngavie Glasgowcity GB G62 6PB
+Iceland Foods	
+~
+37/41 Almondvale South Livingston West Lothian GB EH54 6NB
+Iceland Foods	
+meat_wholesaler
+Unit 40 Westerhailes Shopping Ctr Edinburgh GB EH14 2SW
+Iceland Foods	
+supermarket
+Unit C Railway Street Dewsbury GB WF12 8EB
+Iceland Foods	
+supermarket
+225 Dewsbury Road Leeds ENG GB LS11 5HZ
+Iceland Foods	
+meat_wholesaler
+Gresley Road Keighley West Yorkshire GB BD21 5JG
+Iceland Foods	
+supermarket
+57 Church Street Cromer ENG GB NR27 9HH
+Iceland Foods	
+supermarket
+138d High Street Great Yarmouth ENG GB NR31 6QX
+Iceland Foods	
+supermarket
+34 High Street Evesham ENG GB WR11 4HJ
+Iceland Foods	
+supermarket
+9 Peckingham Street Halesowen ENG GB B63 3
+Iceland Foods	
+meat_wholesaler
+74/75 High Street Cradley Heath West Midlands GB B64 5HA
+Iceland Foods	
+supermarket
+51 Union Street Wednesbury ENG GB WS10 7HB
+Iceland Foods	
+supermarket
+Binley Road Coventry GB CV3 1HX
+Iceland Foods	
+supermarket
+11 South St Mary's Gate Grimsby ENG GB DN31 1JE
+Iceland Foods	
+supermarket
+63 Middle Street South Driffield ENG GB YO25 6QG
+Iceland Foods	
+supermarket
+25 Fore Street Redruth ENG GB TR15 2BQ
+Iceland Foods	
+supermarket
+Riverdale Post Office 151 Andersonstown Road Belfast NIR GB BT11 9
+Iceland Foods	
+supermarket
+28 Kennedy Way Belfast NIR GB BT11 9
+Iceland Foods	
+meat_wholesaler
+Unit 24A Park Centre Donegall Road Belfast Northern Ireland GB BT12 6HN
+Iceland Foods	
+supermarket
+Ards Shopping Centre 22c Circular Road Newtownards NIR GB BT23 4
+Iceland Foods	
+supermarket
+35 High Street Ballymena NIR GB BT43 6DT
+Iceland Foods	
+supermarket
+Unit 15 The Galleries Washington GB NE38 7SA
+Iceland Foods	
+meat_wholesaler
+Unit 1 Pennywell Shop Ctr Portsmouth Road Pennywell GB SR4 9AS
+Iceland Foods	
+supermarket
+65 Waterloo Road Blyth ENG GB NE24 1
+Iceland Foods	
+supermarket
+Bellway House Woodhorn Road Ashington GB NE63 0AE
+Iceland Foods	
+supermarket
+21 Langney Road Eastbourne ENG GB BN21 3QA
+Iceland Foods	
+meat_wholesaler
+Bridge Street Llangefni Anglesey GB LL77 7PN
+Iceland Foods	
+meat_wholesaler
+Unit 3 St Deiniol Centre High Street Bangor GB LL57 1NW
+Iceland Foods	
+shopping
+Unit 12 Island Green Shopping Centre Wrexham GB LL13 7LW
+Iceland Foods	
+supermarket
+26 Salisbury Street Blandford Forum ENG GB DT11 7AR
+Iceland Foods	
+supermarket
+54 High Street Hythe ENG GB CT21 5AT
+Iceland Foods	
+supermarket
+2 Queen Street Deal ENG GB CT14 6ET
+Iceland Foods	
+retail
+23/24 Lee Gate Shop Ctr Lee Green London GB SE12 8SS
+Iceland Foods	
+supermarket
+210 Trafalgar Road London ENG GB SE10 9ER
+Iceland Foods	
+supermarket
+2 Whalebone Lane South Dagenham ENG GB RM8 1FB
+Iceland Foods	
+supermarket
+111 King Street London ENG GB W6 9JG
+Iceland Foods	
+supermarket
+1372 London Road London ENG GB SW16 4
+Iceland Foods	
+meat_wholesaler
+15/21 The Market Place Basildon Essex GB SS14 1DD
+Iceland Foods	
+supermarket
+Springfield Road Chelmsford GB CM2 6JY
+Iceland Foods	
+supermarket
+102 High Street Sheerness ENG GB ME12 1UB
+Iceland Foods	
+supermarket
+8 College Road Margate ENG GB CT9 4
+Iceland Foods	
+supermarket
+50 Hamilton Road Felixstowe ENG GB IP11 7
+Iceland Foods	
+supermarket
+20 High Street Haverhill ENG GB CB9 8AR
+Iceland Foods	
+~
+Unit 2 Cromwell Ret Park Cromwell Road Wisbech GB PE14 0RG
+Iceland Foods	
+supermarket
+5 Cornhill Bury St Edmunds ENG GB IP33 1
+Iceland Foods	
+supermarket
+190 Lawnwood Road Bristol ENG GB BS5 0EU
+Iceland Foods	
+supermarket
+26 Parsonage Street Dursley ENG GB GL11 4
+Iceland Foods	
+meat_wholesaler
+10 Union Street Cornhill Stroud GB GL5 2JT
+Iceland Foods	
+supermarket
+39 Palmerston Road Southsea ENG GB PO5 3
+Iceland Foods	
+supermarket
+Unit 3 Banbury Cross Retail Park Banbury GB OX16 1LX
+Iceland Foods	
+supermarket
+56 Calthorpe Street Banbury ENG GB OX16 5EX
+Iceland Foods	
+retail
+Unit 5 The Food Centre Central Milton Keynes Buckinghamshire GB MK9 3BB
+Iceland Foods	
+online_shop
+14/16 Harlestone Road Northampton GB NN5 7AE
+Iceland Foods	
+supermarket
+2 Tamworth Road Nottingham ENG GB NG10 1JJ
+Iceland Foods	
+supermarket
+83 High Street Harrow ENG GB HA3 7
+Iceland Foods	
+supermarket
+102 Station Road Edgware ENG GB HA8 7
+Iceland Foods	
+supermarket
+126 High Street Barnet ENG GB EN5 5XQ
+Iceland Foods	
+supermarket
+301 Kentish Town Road London ENG GB NW5 2TJ
+Iceland Foods	
+restaurant
+150 Mare Street London ENG GB E8 3SG
+Iceland Foods	
+supermarket
+10 Vesey Path London ENG GB E14 0
+Iceland Foods	
+eat_and_drink
+13 North Square London ENG GB N9 0SN
+Iceland Foods	
+supermarket
+140 Victoria Street St Albans ENG GB AL1 3TG
+Iceland Foods	
+supermarket
+106 High Street Waltham Cross ENG GB EN8 7BX
+Iceland Foods	
+supermarket
+26 High Street Eastleigh ENG GB SO50 5
+Iceland Foods	
+supermarket
+50 Victoria Road Horley ENG GB RH6 7PZ
+Iceland Foods	
+supermarket
+3 Queensway Redhill ENG GB RH1 1
+Iceland Foods	
+retail
+16/18 The Square Botley Oxford GB OX2 9LJ
+Iceland Foods	
+online_shop
+64 High Street Staines GB TW18 4DY
+Iceland Foods	
+supermarket
+37 High Street Leven SCT GB KY8 4
+Iceland Foods	
+eat_and_drink
+6 Branch Way St Helens ENG GB WA11 0
+Iceland Foods	
+supermarket
+240 North Road Preston ENG GB PR1 1
+Iceland Foods	
+supermarket
+Branch Road 599 Bolton Road Blackburn ENG GB BB2 4JT
+Iceland Foods	
+supermarket
+Fallowfield Shopping Ctr (Stop B) 142 Birchfields Road Manchester ENG GB M14 6PE
+Iceland Foods	
+supermarket
+962 Stockport Road Manchester ENG GB M19 3NN
+Iceland Foods	
+supermarket
+28 High Street Melton Mowbray ENG GB LE13 0
+Iceland Foods	
+supermarket
+34 Stodman Street Newark ENG GB NG24 1AW
+Iceland Foods	
+meat_wholesaler
+Unit 16 Marine Point Retail Park New Brighton GB CH45 2PB
+Iceland Foods	
+meat_wholesaler
+10 St Chads Parade Kirkby Liverpool GB L32 8UG
+Iceland Foods	
+supermarket
+10 Topping Street Blackpool ENG GB FY1 3
+Iceland Foods	
+supermarket
+62 Pow Street Workington ENG GB CA14 3AB
+Iceland Foods	
+supermarket
+69 Witton Street Northwich ENG GB CW9 5
+Iceland Foods	
+supermarket
+Bankside Crossfield Street Warrington GB WA1 1UP
+Iceland Foods	
+supermarket
+33 High Street Sandbach ENG GB CW11 1AL
+Iceland Foods	
+supermarket
+Woodley Food & Wines 1 Hyde Road Stockport ENG GB SK6 1NA
+Iceland Foods	
+supermarket
+Unit 2 Sheffield Road Chesterfield GB S41 8JZ
+Iceland Foods	
+meat_wholesaler
+Point Street Larne County Antrim GB BT40 1HU
+Iceland Foods	
+~
+Unit 1A Skippingdale Retail Park Holyroad Drive GB DN15 8NN
+Iceland Foods	
+supermarket
+34 Woodfield Street Swansea WLS GB SA6 8AB
+Iceland Foods	
+meat_wholesaler
+Store D Aberafan Centre Port Talbot County Durham GB SA13 1PB
+Iceland Foods	
+supermarket
+Fowlds Street Kilmarnock GB KA1 3DG
+Iceland Foods	
+supermarket
+22 Smithhills Street Paisley SCT GB PA1 1
+Iceland Foods	
+meat_wholesaler
+35/37 Sylvania Way South Clydebank Shop Ctr Clydebank GB G81 1EA
+Iceland Foods	
+online_shop
+Unit 4 Hamilton Retail Park Hamilton GB ML3 0DF
+Iceland Foods	
+supermarket
+69 Brandon Parade South Motherwell SCT GB ML1 1RB
+Iceland Foods	
+supermarket
+5 Pitt Terrace Stirling SCT GB FK8 2EZ
+Iceland Foods	
+supermarket
+1 York Square Grangemouth GB FK3 8BB
+Iceland Foods	
+retail
+Unit 1 162 West Granton Road Edinburgh GB EH5 1PE
+Iceland Foods	
+supermarket
+Pontefract Road Barnsley GB S71 5PN
+Iceland Foods	
+supermarket
+45 Kirkgate Wakefield ENG GB WF1 1
+Iceland Foods	
+supermarket
+Berry Road Skegness GB PE25 3QS
+Iceland Foods	
+supermarket
+210 Soho Road Birmingham ENG GB B21 9LR
+Iceland Foods	
+meat_wholesaler
+21/21A Kings Square Sandwell Centre West Bromwich GB B70 7NN
+Iceland Foods	
+supermarket
+957 Alcester Road South Birmingham ENG GB B14 5JA
+Iceland Foods	
+online_shop
+Unit 10 Institutes Road Kings Heath Caterrick Garrison GB B14 7EG
+Iceland Foods	
+supermarket
+1133 Warwick Road Birmingham ENG GB B27 6RA
+Iceland Foods	
+supermarket
+2154 Coventry Road Birmingham ENG GB B26 3JB
+Iceland Foods	
+supermarket
+18 Timberley Lane Birmingham ENG GB B34 7EH
+Iceland Foods	
+shopping
+51 Renny's Lane Durham ENG GB DH1 2
+Iceland Foods	
+retail
+Unit 2 Great Easter Way Ret Park Rotherham GB S62 6EJ
+Iceland Foods	
+supermarket
+Willerby News 3 Main Street Hull ENG GB HU10 6BP
+Iceland Foods	
+meat_wholesaler
+Unit 4 Hessle Road Hull GB HU3 4EB
+Iceland Foods	
+supermarket
+324 Holderness Road Hull ENG GB HU8 8
+Iceland Foods	
+supermarket
+North Point Shopping Centre 5 Goodhart Road Hull ENG GB HU7 4
+Iceland Foods	
+grocery_store
+Fire Centre 19 Bulmer Way Middlesbrough ENG GB TS1 5JT
+Iceland Foods	
+supermarket
+25 Yoden Way Peterlee ENG GB SR8 5
+Iceland Foods	
+online_shop
+Skerne Road Oakesway Hartlepool GB TS24 0RE
+Iceland Foods	
+supermarket
+7a Old Vicarage Place St Austell ENG GB PL25 5YY
+Iceland Foods	
+supermarket
+75 Mayflower Street Plymouth ENG GB PL1 1QW
+Iceland Foods	
+supermarket
+2 Shore Road Enniskillen NIR GB BT74 7EF
+Iceland Foods	
+supermarket
+28 Monaghan Street Newry NIR GB BT35 6AA
+Iceland Foods	
+meat_wholesaler
+Ballysillan Rd Ballysillan Belfast Northern Ireland GB BT14 7QQ
+Iceland Foods	
+meat_wholesaler
+475/477 Antrim Road Belfast Northern Ireland GB BT15 3BD
+Iceland Foods	
+meat_wholesaler
+78/80 Cregagh Road Belfast Northern Ireland GB BT6 9ER
+Iceland Foods	
+online_shop
+Unit 18 Carrickfergus Shop Ctr Belfast GB BT38 7AG
+Iceland Foods	
+supermarket
+Cheque Centre 4 Jackson Street Gateshead ENG GB NE8 1
+Iceland Foods	
+supermarket
+279 Prince Edward Road South Shields ENG GB NE34 7
+Iceland Foods	
+supermarket
+33 High Street Galashiels SCT GB TD1 1RY
+Iceland Foods	
+supermarket
+14 The Green Sunderland ENG GB SR5 2JE
+Iceland Foods	
+supermarket
+461 Great Northern Road Aberdeen SCT GB AB24 2BD
+Iceland Foods	
+korean_grocery_store
+Unit 3 Rhydal Retail Park Station Road Aberystwyth GB SY23 1LL
+Iceland Foods	
+food
+Puzzle Square Welshpool Powys GB SY21 7LE
+Iceland Foods	
+meat_wholesaler
+Mostyn Champney Retail Pk Llandudno Conwy GB LL30 1RY
+Iceland Foods	
+appliance_store
+20/22 High Street Holywell Flintshire GB CH8 7LH
+Iceland Foods	
+supermarket
+790 Borough Road Birkenhead ENG GB CH42 9JG
+Iceland Foods	
+supermarket
+176 Breck Road Liverpool ENG GB L5 6PX
+Iceland Foods	
+meat_wholesaler
+Unit Msu1 Sandgates Lane Folkestone Kent GB CT20 1RR
+Iceland Foods	
+supermarket
+Maynard Road Wincheap Ind. Est. Canterbury GB CT1 3RH
+Iceland Foods	
+supermarket
+2 Station Approach Bromley ENG GB BR2 7EH
+Iceland Foods	
+supermarket
+157 High Street Orpington ENG GB BR6 0LN
+Iceland Foods	
+supermarket
+49 Bellegrove Road Welling ENG GB DA16 3PB
+Iceland Foods	
+supermarket
+49 Market Place Romford ENG GB RM1 3
+Iceland Foods	
+supermarket
+279 High Street Chatham ENG GB ME4 4BN
+Iceland Foods	
+meat_wholesaler
+26/34 The Broadway Tolworth Surrey GB KT6 7HL
+Iceland Foods	
+supermarket
+290-302 North End Road London ENG GB SW6 1
+Iceland Foods	
+supermarket
+12 Upper Green West Mitcham ENG GB CR4 3AA
+Iceland Foods	
+supermarket
+348 Norwood Road London ENG GB SE27 9
+Iceland Foods	
+supermarket
+470 Bromley Road Bromley ENG GB BR1 4PQ
+Iceland Foods	
+supermarket
+13 Winslade Way London ENG GB SE6 4
+Iceland Foods	
+supermarket
+789 Old Kent Road London ENG GB SE15 1
+Iceland Foods	
+supermarket
+80 Furtherwick Road Canvey Island ENG GB SS8 7AJ
+Iceland Foods	
+supermarket
+62 High Street Maldon ENG GB CM9 5PN
+Iceland Foods	
+supermarket
+22 King Street Ramsgate ENG GB CT11 8BG
+Iceland Foods	
+supermarket
+87 Market Place Swaffham ENG GB PE37 7
+Iceland Foods	
+supermarket
+12 Crown Glass Place Bristol ENG GB BS48 1RD
+Iceland Foods	
+supermarket
+Unit 3A Channons Hill Retail Park Bristol GB BS16 2EA
+Iceland Foods	
+supermarket
+139 Crow Lane Bristol ENG GB BS10 7DS
+Iceland Foods	
+supermarket
+44 Market Place Chippenham ENG GB SN15 3HU
+Iceland Foods	
+supermarket
+24 Agincourt Square Monmouth WLS GB NP25 3DY
+Iceland Foods	
+supermarket
+14 St Peters Street Northampton ENG GB NN1 1
+Iceland Foods	
+supermarket
+Bridge Road Coalville GB LE67 3PW
+Iceland Foods	
+supermarket
+232 Lincoln Road Peterborough ENG GB PE1 2NE
+Iceland Foods	
+home_goods_store
+Willowbrook Park Derby Road Leicestershire Loughborough GB LE11 5HG
+Iceland Foods	
+eat_and_drink
+512 Harrow Road London ENG GB W9 3
+Iceland Foods	
+supermarket
+442 Holloway Road London ENG GB N7 6QA
+Iceland Foods	
+supermarket
+444 Bethnal Green Road London ENG GB E2 0
+Iceland Foods	
+supermarket
+142 Stoke Newington High Street London ENG GB N16 0
+Iceland Foods	
+supermarket
+28 New Street Telford ENG GB TF1 1NE
+Iceland Foods	
+meat_wholesaler
+8 The Moor Centre Brierley Hill West Midlands GB DY5 3AH
+Iceland Foods	
+supermarket
+86 London Road Portsmouth ENG GB PO2 0LZ
+Iceland Foods	
+eat_and_drink
+65 High Street Alton ENG GB GU34 1AB
+Iceland Foods	
+supermarket
+72 High Street Bognor Regis ENG GB PO21 1SJ
+Iceland Foods	
+supermarket
+5 London Road Brighton ENG GB BN1 4JA
+Iceland Foods	
+supermarket
+263/269 Haslett Avenue Crawley GB RH10 1NP
+Iceland Foods	
+supermarket
+12 Sheep Street Bicester ENG GB OX26 6TB
+Iceland Foods	
+supermarket
+288 Bath Road Hounslow ENG GB TW3 3
+Iceland Foods	
+supermarket
+1314 Uxbridge Road Hayes ENG GB UB4 8JH
+Iceland Foods	
+meat_wholesaler
+Chorley New Road Horwich Manchester GB BL6 5QH
+Iceland Foods	
+eat_and_drink
+Unit 3 Golden Way Urmston GB M41 0NA
+Iceland Foods	
+supermarket
+18 Bury Old Road Manchester ENG GB M8 5
+Iceland Foods	
+supermarket
+1 Greenside Crescent Manchester ENG GB M43 7
+Iceland Foods	
+supermarket
+33 Longfield Centre Manchester ENG GB M25 1
+Iceland Foods	
+supermarket
+209 Main Street Nottingham ENG GB NG6 8EZ
+Iceland Foods	
+supermarket
+Priestic Road Sutton in Ashfield GB NG17 2AH
+Iceland Foods	
+supermarket
+3 Broad View Liverpool ENG GB L11 1
+Iceland Foods	
+supermarket
+5 King Street Southport ENG GB PR8 1JZ
+Iceland Foods	
+supermarket
+11 Pedder Street Morecambe ENG GB LA4 5DY
+Iceland Foods	
+supermarket
+Unit 62 Town Square Runcorn GB WA7 2EU
+Iceland Foods	
+supermarket
+15 Albert Square Widnes ENG GB WA8 6
+Iceland Foods	
+supermarket
+25 High Street Cheadle ENG GB SK8 1AX
+Iceland Foods	
+restaurant
+19/25 The Maltings Uttoxeter GB ST14 7LN
+Iceland Foods	
+supermarket
+19 Sidwell Street Exeter ENG GB EX4 6NN
+Iceland Foods	
+supermarket
+65 High Street Taunton ENG GB TA1 3
+Iceland Foods	
+supermarket
+Old Market Street Neath GB SA11 3NA
+Iceland Foods	
+restaurant
+28 Merthyr Road Cardiff WLS GB CF14 1DH
+Iceland Foods	
+supermarket
+City Link Retail Park Cardiff GB CF24 1PQ
+Iceland Foods	
+supermarket
+4 Countisbury Avenue Cardiff WLS GB CF3 5SJ
+Iceland Foods	
+supermarket
+63 Oxford Street Mountain Ash WLS GB CF45 3HD
+Iceland Foods	
+supermarket
+St Georges Cross Maryhill Glasgow GB G20 7JN
+Iceland Foods	
+supermarket
+42 Church Street Port Glasgow SCT GB PA14 5JD
+Iceland Foods	
+supermarket
+111 Dunkenny Road Glasgow SCT GB G15 8BL
+Iceland Foods	
+supermarket
+Unit 3a St Nicholas Retail Park Carlisle GB CA1 2EA
+Iceland Foods	
+supermarket
+102 Main Street Glasgow SCT GB G73 2
+Iceland Foods	
+supermarket
+17 Market Street Oldham ENG GB OL2 8
+Iceland Foods	
+meat_wholesaler
+Unit 2 Kirkstall Road Leeds West Yorkshire GB LS4 2EZ
+Iceland Foods	
+supermarket
+Castle Retail Park Cavendish Way Penrith GB CA11 7JQ
+Iceland Foods	
+supermarket
+67 St Stephens Street Norwich ENG GB NR1 3QR
+Iceland Foods	
+supermarket
+Unit 5 St Andrews Retail Park Birmingham GB B10 0XA
+Iceland Foods	
+meat_wholesaler
+48/50 Ankerside Centre Tamworth West Midlands GB B79 7LQ
+Iceland Foods	
+supermarket
+10 Brownlow Street Whitchurch ENG GB SY13 1QS
+
+Iceland Foods	
+supermarket
+481 Endike Lane Hull ENG GB HU6 8AQ
+Iceland Foods	
+supermarket
+104 Freeman Street Grimsby ENG GB DN32 7AH
+Iceland Foods	
+online_shop
+Unit A John Walker Sq Castlegates Shopping Ctr Stockton On Tees GB TS18 1AQ
+Iceland Foods	
+supermarket
+Unit 1 Ormesby Road Middlesbrough GB TS3 0DY
+Iceland Foods	
+supermarket
+2 Spring Wood Road Guisborough ENG GB TS14 7
+Iceland Foods	
+supermarket
+The Victoria Centre Consett GB DH8 5JU
+Iceland Foods	
+supermarket
+11 Fore Street Bodmin ENG GB PL31 2JA
+Iceland Foods	
+supermarket
+25 Ridgeway Plymouth ENG GB PL7 2AW
+Iceland Foods	
+supermarket
+18 Victoria Street Paignton ENG GB TQ4 5DN
+Iceland Foods	
+supermarket
+23 Courtenay Street Newton Abbot ENG GB TQ12 2QH
+Iceland Foods	
+supermarket
+32e Scotch Street Dungannon NIR GB BT70 1BD
+Iceland Foods	
+supermarket
+Meadowlane Shopping Centre 1 Moneymore Road Magherafelt NIR GB BT45 6
+Iceland Foods	
+supermarket
+71 Bow Street Lisburn NIR GB BT28 1BJ
+Iceland Foods	
+supermarket
+88 Bedford Street North Shields ENG GB NE29 0
+Iceland Foods	
+~
+45 Castle Street Forfar Angus GB DD8 3AE
+Iceland Foods	
+supermarket
+44 Devonshire Road Bexhill on Sea ENG GB TN40 1AX
+Iceland Foods	
+supermarket
+1 Castle Street Hastings ENG GB TN34 3DY
+Iceland Foods	
+supermarket
+Unit B 1 Bay View Road The Colwyn Centre Colwyn Bay GB LL29 8DG
+Iceland Foods	
+online_shop
+Stanley Road Birkenhead Wirral GB CH41 7BG
+Iceland Foods	
+supermarket
+Penny Lane 7 Church Road Liverpool ENG GB L15 9EA
+Iceland Foods	
+supermarket
+158 Allerton Road Liverpool ENG GB L18 2DH
+Iceland Foods	
+eat_and_drink
+710 Prescot Road Liverpool ENG GB L13 5XG
+Iceland Foods	
+supermarket
+Units 20 Ivel Square The Quedam Centre Yeovil GB BA20 1EY
+Iceland Foods	
+supermarket
+Trinity Street Dorchester GB DT1 1TU
+Iceland Foods	
+supermarket
+3 Wicker Hill Trowbridge ENG GB BA14 8JS
+Iceland Foods	
+grocery_store
+97a The Dolphin Centre Poole GB BH15 1SS
+Iceland Foods	
+supermarket
+Unit 2 Stour Retail Park Canterbury GB CT1 1AD
+Iceland Foods	
+supermarket
+144 Plumstead High Street London ENG GB SE18 1JQ
+Iceland Foods	
+supermarket
+359 Barking Road London ENG GB E13 8EE
+Iceland Foods	
+supermarket
+Unit 1 Beckton Retail Park Alpine Way London GB E6 6LA
+Iceland Foods	
+supermarket
+531 Cranbrook Road Ilford ENG GB IG2 6
+Iceland Foods	
+supermarket
+21 High Street Ilford ENG GB IG6 2AW
+Iceland Foods	
+supermarket
+47 Corbets Tey Road Upminster ENG GB RM14 2AJ
+Iceland Foods	
+korean_grocery_store
+Unit 12 District Centre Rainham Kent GB ME8 7HW
+Iceland Foods	
+supermarket
+29 King Street Twickenham ENG GB TW1 3SD
+Iceland Foods	
+supermarket
+29 Surrey Street Croydon ENG GB CR0 1RG
+Iceland Foods	
+supermarket
+Blenheim Shopping Centre London GB SE20 8RW
+Iceland Foods	
+supermarket
+25 St James's Drive London ENG GB SW17 7RN
+Iceland Foods	
+supermarket
+314 Clapham Road London ENG GB SW9 9AE
+Iceland Foods	
+supermarket
+441 Brixton Road London ENG GB SW9 8HE
+Iceland Foods	
+supermarket
+23 Bank Street Braintree ENG GB CM7 1UG
+Iceland Foods	
+meat_wholesaler
+10/14 High Street Sittingbourne Kent GB ME10 4PD
+Iceland Foods	
+restaurant
+Turner Road 100 Mill Road Colchester ENG GB CO4 5LJ
+Iceland Foods	
+supermarket
+14 Triangle Shopping Centre Frinton-on-Sea ENG GB CO13 0
+Iceland Foods	
+supermarket
+9 Brays Lane Ely ENG GB CB7 4QJ
