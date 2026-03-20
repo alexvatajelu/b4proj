@@ -1,0 +1,12 @@
+item_name,price_factor_to_average,most_common_colour_hsl,most_common_colour_hex,item_price,category_price_average,image_file
+Eggs,1.011,355 78 52,#e42434,2.85,2.82,15cec68a-60dd-43e0-baa8-45440c97c7e5.jpeg.jpg
+Banana,,37 44 53,#bc9454,0.16,,1b874655-7346-4bd3-8907-b01c77ed1f0b.jpeg.jpg
+Salmon ,0.700,37 44 53,#bc9454,4.80,6.86,3c2a9237-9cad-4750-a781-cbb89d296cef.jpeg.jpg
+Blueberries,,229 35 50,#5464ac,4.55,,3eac5a9b-6b70-4318-a5be-2677588f1535.jpeg.jpg
+Biscuits,1.868,3 81 41,#bc1c14,3.25,1.74,45510fd0-5591-461a-9eaa-c5d9bed40f20_1064026786.jpeg.jpg
+Milk,1.194,60 39 88,#ececd4,2.40,2.01,627154bb-0597-47ea-9347-a0ec06d4b82d.jpeg.jpg
+Steak Mince,0.727,0 0 89,#e4e4e4,8.00,11.01,6c60db2e-fe83-4a80-92f3-d1fcf33bee64.jpg
+Mature Grated Cheddar,0.509,37 44 53,#bc9454,2.70,5.30,b64a7c93-a6c9-471e-95ca-e08ffe417a61.jpeg.jpg
+Pasta Baker ,1.549,148 93 22,#046c34,3.50,2.26,cb646795-e9fa-4c73-98cf-c98d3a608175.jpg
+Orange Juice ,0.535,0 0 96,#f4f4f4,1.60,2.99,d8ff9d90-f647-4e17-834a-4c9016d1db12_1250574320.jpeg.jpg
+Roast Beef ,,0 0 96,#f4f4f4,,,Unknown.jpg
